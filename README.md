@@ -4,7 +4,7 @@
   <b>Full-Stack MERN Developer</b> | <b>Learning Technology Developer</b> | <b>Innovating through Code</b> 🚀
 </p>
 
-### 🚀 About Me
+###  About Me
 - 🧠 Full-Stack Developer with 2+ year of hands-on experience in **React.js, Node.js, and MongoDB**
 - 🏢 Currently working at **Alogic Data** as a **Software Developer**
 - 🧰 Skilled in building **dynamic web applications**, **custom Moodle LMS enhancements**, and **AWS deployments**
@@ -39,12 +39,13 @@
 
 ### 📊 GitHub Statistics
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshvardhanSuryavanshi&show_icons=true&rank_icon=github&theme=react&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=HarshvardhanSuryavanshi&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vardhan96harsh&show_icons=true&rank_icon=github&theme=react&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=vardhan96harsh&theme=react&hide_border=true" />
 </p>
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvardhanSuryavanshi&layout=compact&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan96harsh&layout=compact&theme=react&hide_border=true" />
 </p>
+
  
 ### 💼 Professional Experience
 
