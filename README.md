@@ -78,24 +78,5 @@
 
 ---
 
-### 🎓 Education
-**B.Tech – Computer Science**  
-Samrat Ashok Technological Institute, Vidisha (2019–2023)
-
----
-
-### 💡 Soft Skills
-- Problem Solving & Analytical Thinking  
-- Quick Learner & Adaptable  
-- Team Collaboration & Communication  
-
----
 
 
-
----
-
-### 🌍 Location & Contact
-- 📍 Vidisha, Madhya Pradesh, India  
-- 🌐 Portfolio: **alogicdata.com**  
-- ✉️ Email: **harshvardhansuryawanshi373@gmail.com**
