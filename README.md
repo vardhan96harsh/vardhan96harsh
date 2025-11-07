@@ -38,7 +38,6 @@
 ![Informatica](https://img.shields.io/badge/Informatica-FF4F00?logoColor=white)
 
 ---
-
 ### GitHub Statistics
 <a href="https://github.com/vardhan96harsh">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=vardhan96harsh&show_icons=true&theme=react&hide_border=true&rank_icon=github" />
