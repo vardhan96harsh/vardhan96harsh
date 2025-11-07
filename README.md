@@ -5,18 +5,18 @@
 </p>
 
 ###  About Me
-- 🧠 Full-Stack Developer with 2+ year of hands-on experience in **React.js, Node.js, and MongoDB**
-- 🏢 Currently working at **Alogic Data** as a **Software Developer**
-- 🧰 Skilled in building **dynamic web applications**, **custom Moodle LMS enhancements**, and **AWS deployments**
-- 📚 Currently learning **TypeScript**, **Angular**, and **Node.js best practices**
-- 💬 Ask me about **React, Node.js, MongoDB, PHP (Moodle), and AWS EC2/RDS setups**
-- 📫 Reach me here:  
+- Full-Stack Developer with 2+ year of hands-on experience in **React.js, Node.js, and MongoDB**
+- Currently working at **Alogic Data** as a **Software Developer**
+- Skilled in building **dynamic web applications**, **custom Moodle LMS enhancements**, and **AWS deployments**
+- Currently learning **TypeScript**, **Angular**, and **Node.js best practices**
+- Ask me about **React, Node.js, MongoDB, PHP (Moodle), and AWS EC2/RDS setups**
+- Reach me here:  
   [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">](https://linkedin.com/in/harshvardhan-suryawanshi-1a59b0203)
   [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white">](https://alogicdata.com)
   [<img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">](mailto:harshvardhansuryawanshi373@gmail.com)
 
 ---
-### 🧰 Tech Stack
+### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Informatica-FF4F00?logoColor=white" />
 </p>
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 <p align="center">
   <a href="https://github.com/vardhan96harsh">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=vardhan96harsh&show_icons=true&theme=react&hide_border=true&rank_icon=github" />
@@ -49,7 +49,7 @@
 
 
  
-### 💼 Professional Experience
+### Professional Experience
 
 **Software Developer — Alogic Data (Oct 2024 – Present)**  
 - Developed scalable web applications using **React** and **Node.js**  
@@ -62,18 +62,18 @@
 - Applied modern **UI/UX** design principles across projects  
 
 ---
-### 🧩 Featured Projects
+### Featured Projects
 
-#### 🎧 SABA Podcast Website – HP Pvt. Ltd.
+#### SABA Podcast Website – HP Pvt. Ltd.
 - Developed a modular podcast platform using **React + Tailwind**  
 - Integrated with **Cornerstone OnDemand (CSOD)** for host and user data  
 - Added bookmarking, ratings, admin control, and seamless content navigation  
 
-#### 🧠 OPLE – Knowledge Sharing Platform
+#### OPLE – Knowledge Sharing Platform
 - Built frontend with **Angular + Tailwind CSS** and backend with **Node.js + Express**  
 - Created internal admin dashboard, dynamic email templates, and automated deployment via **GitHub Actions**
 
-#### 🛒 E-commerce Web App (Academic)
+#### E-commerce Web App (Academic)
 - Designed with **HTML, CSS, and JS** including user authentication and cart features  
 
 ---
