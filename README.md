@@ -41,6 +41,16 @@
 </p>
 
 ---
+### 📊 Some Statistics About Me
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhilraj2908&show_icons=true&rank_icon=github&theme=react&hide_border=true%22 />
+  <img height="165" src="https://streak-stats.demolab.com?user=nikhilraj2908&theme=react&hide_border=true" />
+</p>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilraj2908&layout=compact&theme=react&hide_border=true%22 />
+</p>
+ 
+
 
 ### 💼 Professional Experience
 
@@ -85,14 +95,7 @@ Samrat Ashok Technological Institute, Vidisha (2019–2023)
 
 ---
 
-### 📊 GitHub Statistics
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshvardhanSuryavanshi&show_icons=true&rank_icon=github&theme=react&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=HarshvardhanSuryavanshi&theme=react&hide_border=true" />
-</p>
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvardhanSuryavanshi&layout=compact&theme=react&hide_border=true" />
-</p>
+
 
 ---
 
