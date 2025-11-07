@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🧠 Full-Stack Developer with 1+ year of hands-on experience in **React.js, Node.js, and MongoDB**
+- 🧠 Full-Stack Developer with 2+ year of hands-on experience in **React.js, Node.js, and MongoDB**
 - 🧩 Currently working at **Alogic Data** as a **Software Developer**
 - 🧰 Skilled in building **dynamic web applications**, **custom Moodle LMS enhancements**, and **AWS deployments**
 - 🌱 Currently learning **TypeScript**, **Angular**, and **Node.js best practices**
