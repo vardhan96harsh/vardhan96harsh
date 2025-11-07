@@ -4,8 +4,6 @@
   <b>Full-Stack MERN Developer</b> | <b>Learning Technology Developer</b> | <b>Innovating through Code</b> 🚀
 </p>
 
----
-
 ### 🚀 About Me
 - 🧠 Full-Stack Developer with 2+ year of hands-on experience in **React.js, Node.js, and MongoDB**
 - 🏢 Currently working at **Alogic Data** as a **Software Developer**
@@ -18,7 +16,6 @@
   [<img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">](mailto:harshvardhansuryawanshi373@gmail.com)
 
 ---
-
 ### 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
@@ -50,8 +47,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilraj2908&layout=compact&theme=react&hide_border=true%22 />
 </p>
  
-
-
 ### 💼 Professional Experience
 
 **Software Developer — Alogic Data (Oct 2024 – Present)**  
@@ -65,7 +60,6 @@
 - Applied modern **UI/UX** design principles across projects  
 
 ---
-
 ### 🧩 Featured Projects
 
 #### 🎧 SABA Podcast Website – HP Pvt. Ltd.
