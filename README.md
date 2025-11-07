@@ -18,7 +18,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 <a href="https://github.com/vardhan96harsh">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=vardhan96harsh&show_icons=true&theme=react&hide_border=true&rank_icon=github" />
 </a>
@@ -49,7 +49,7 @@
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 **Software Developer — Alogic Data (Oct 2024 – Present)**  
 - Developed scalable web applications using **React** and **Node.js**  
@@ -63,7 +63,7 @@
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 
 **SABA Podcast Website – HP Pvt. Ltd.**  
 - Developed a modular podcast platform using **React + Tailwind**  
