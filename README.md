@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Harshvardhan Suryavanshi 👋</h1>
 
 <p align="center">
-  <b>Full-Stack MERN Developer</b> | <b>Learning Technology Developer</b> | <b>Innovating through Code</b> 🚀
+  <b>Full-Stack MERN Developer</b> | <b>Learning Technology Developer</b> | <b>Innovating through Code</b> 
 </p>
 
 ###  About Me
@@ -38,13 +38,15 @@
 </p>
 
 ### 📊 GitHub Statistics
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vardhan96harsh&show_icons=true&rank_icon=github&theme=react&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=vardhan96harsh&theme=react&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/vardhan96harsh">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=vardhan96harsh&show_icons=true&theme=react&hide_border=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/vardhan96harsh">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan96harsh&layout=compact&theme=react&hide_border=true" />
+  </a>
 </p>
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan96harsh&layout=compact&theme=react&hide_border=true" />
-</p>
+
 
  
 ### 💼 Professional Experience
