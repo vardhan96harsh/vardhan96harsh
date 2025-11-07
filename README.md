@@ -10,6 +10,7 @@
 - Skilled in building **dynamic web applications**, **custom Moodle LMS enhancements**, and **AWS deployments**
 - Currently learning **TypeScript**, **Angular**, and **Node.js best practices**
 - Ask me about **React**, **Node.js**, **MongoDB**, **PHP (Moodle)**, and **AWS EC2/RDS setups**
+  
 - Reach me here:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhan-suryawanshi-1a59b0203)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://alogicdata.com)
