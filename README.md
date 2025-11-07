@@ -4,14 +4,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - Full-Stack Developer with 2+ years of hands-on experience in **React.js**, **Node.js**, and **MongoDB**
 - Currently working at **Alogic Data** as a **Software Developer**
 - Skilled in building **dynamic web applications**, **custom Moodle LMS enhancements**, and **AWS deployments**
 - Currently learning **TypeScript**, **Angular**, and **Node.js best practices**
 - Ask me about **React**, **Node.js**, **MongoDB**, **PHP (Moodle)**, and **AWS EC2/RDS setups**
+- Reach me here:
   
-- Reach me here:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhan-suryawanshi-1a59b0203)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://alogicdata.com)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshvardhansuryawanshi373@gmail.com)
