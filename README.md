@@ -36,5 +36,5 @@
 ![Informatica](https://img.shields.io/badge/Informatica-FF4F00?logoColor=white)
 
 ---
-
+ 
 
