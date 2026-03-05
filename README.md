@@ -35,6 +35,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Informatica](https://img.shields.io/badge/Informatica-FF4F00?logoColor=white)
 
----
+--- 
  
 
