@@ -3,7 +3,7 @@
 **Full-Stack MERN Developer** | **Learning Technology Developer** | **Innovating through Code**
  
 --- 
-### About Me  
+### About Me   
 - Full-Stack Developer with 2+ years of hands-on experience in **React.js**, **Node.js**, and **MongoDB**
 - Currently working at **Alogic Data** as a **Software Developer**
 - Skilled in building **dynamic web applications**, **custom Moodle LMS enhancements**, and **AWS deployments**
