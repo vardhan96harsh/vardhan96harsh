@@ -1,19 +1,42 @@
-Stage 13: Create session again
+Stage 14: Inspect app.py exact middleware area
 
-Keep this server terminal open.
+Run this command:
 
-Open new terminal and run:
+Get-Content app.py | Select-Object -Skip 40 -First 70
 
-Invoke-RestMethod -Method POST "http://localhost:8081/apps/base_llm_agent/users/test-user/sessions" `
-  -ContentType "application/json" `
-  -Body '{"state":{}}'
+This should show lines around:
 
-If it works, you should get session data.
+if APP_ENV != "local"
+app.add_middleware(BearerAuthMiddleware)
 
-After that, run:
+Send me screenshot/output.
 
-Invoke-RestMethod -Method GET "http://localhost:8081/apps/base_llm_agent/users/test-user/sessions"
-Send me output
+Stage 15: Check if another file starts protected ADK app
 
-Run the POST command first and send me the output.
-If i
+Run this also:
+
+Get-Content src\adk_lifespan.py | Select-Object -First 160
+
+Send me output.
+
+What this means right now
+
+Current status:
+
+Server running ✅
+Healthcheck working ✅
+Docs working ✅
+APP_ENV is local ✅
+Session endpoint still protected ❌
+
+So likely one of these is happening:
+
+1. BearerAuthMiddleware is still added due to code indentation/condition issue
+2. ADK routes are wrapped with auth somewhere else
+3. AppFabric middleware has a required DEVELOPMENT_TOKEN even in local mode
+4. We need a local dev token from config/team
+
+Do only these 2 commands now:
+
+Get-Content app.py | Select-Object -Skip 40 -First 70
+Get-Content src\adk_lifespan.py | Select-Object -First 160
