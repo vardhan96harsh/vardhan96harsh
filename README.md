@@ -1,41 +1,34 @@
-Stage 7: Check local config
+Now Stage 8: app.py middleware check
 
-Run this command:
+Ab hume dekhna hai app.py me auth middleware kaise add ho raha hai. Run this command:
 
-Get-ChildItem src\resources
+Get-Content app.py | Select-Object -Skip 1 -First 130
 
-Then run:
+Aur ye bhi run karo:
 
-Get-Content src\resources\config-local.yml
+Select-String -Path app.py -Pattern "BearerAuthMiddleware|add_middleware|APP_ENV|local|auth|oauth|token" -CaseSensitive:$false
 
-If it shows secrets/tokens, hide them before sharing screenshot.
+Send me output/screenshot.
 
-Stage 8: Check middleware part in app.py
+Why we are checking this
 
-Run:
+Hume decide karna hai:
 
-Get-Content app.py | Select-Object -Skip 80 -First 30
+Option 1: Valid JWT token generate/use karein
+Option 2: Local development ke liye auth middleware bypass karein
 
-We need to see this part:
+For actual client/demo, valid JWT better hai.
+For fast local development, temporary local bypass faster hai.
 
-app.add_middleware(BearerAuthMiddleware)
-Stage 9: Check if app has local bypass already
+But bina app.py dekhe change nahi karna.
 
-Run:
+Also important
 
-Select-String -Path app.py,src\resources\config-local.yml -Pattern "local|auth|BearerAuthMiddleware|APP_ENV|DEVELOPMENT|JWT|jwk|audience|middleware" -CaseSensitive:$false
+Screenshot me config details visible hain. Future screenshots me token-endpoint, vault path, client names, secrets etc. hide karna better hai.
 
-Do only these 3 commands now:
+Abhi sirf ye 2 commands run karo:
 
-Get-ChildItem src\resources
-Get-Content src\resources\config-local.yml
-Get-Content app.py | Select-Object -Skip 80 -First 30
+Get-Content app.py | Select-Object -Skip 1 -First 130
+Select-String -Path app.py -Pattern "BearerAuthMiddleware|add_middleware|APP_ENV|local|auth|oauth|token" -CaseSensitive:$false
 
-Send me the output. Then I’ll tell you whether to use JWT token or add safe local bypass.
-
-
-
-
-
-
-The local app setup is now successful; the next milestone is authentication access for protected endpoints, followed by AlphaSense OBO integration and query-response testing.
+Then send output.
