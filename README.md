@@ -32,3 +32,10 @@ Get-Content src\resources\config-local.yml
 Get-Content app.py | Select-Object -Skip 80 -First 30
 
 Send me the output. Then I’ll tell you whether to use JWT token or add safe local bypass.
+
+
+
+
+
+
+The local app setup is now successful; the next milestone is authentication access for protected endpoints, followed by AlphaSense OBO integration and query-response testing.
