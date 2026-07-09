@@ -1,34 +1,59 @@
-Now Stage 8: app.py middleware check
+Stage 10: APP_ENV local set karo
 
-Ab hume dekhna hai app.py me auth middleware kaise add ho raha hai. Run this command:
+Same server terminal me run karo:
 
-Get-Content app.py | Select-Object -Skip 1 -First 130
+$env:APP_ENV="local"
 
-Aur ye bhi run karo:
+Verify:
 
-Select-String -Path app.py -Pattern "BearerAuthMiddleware|add_middleware|APP_ENV|local|auth|oauth|token" -CaseSensitive:$false
+echo $env:APP_ENV
 
-Send me output/screenshot.
+Expected:
 
-Why we are checking this
+local
+Stage 11: .env dobara load karo
 
-Hume decide karna hai:
+Same terminal me run karo:
 
-Option 1: Valid JWT token generate/use karein
-Option 2: Local development ke liye auth middleware bypass karein
+gc .env | ? { $_ -match '^\s*[^#].*=' } | % { $p = $_ -split '=',2; Set-Item -Path ("Env:" + $p[0].Trim()) -Value $p[1].Trim() }
 
-For actual client/demo, valid JWT better hai.
-For fast local development, temporary local bypass faster hai.
+Then again set APP_ENV local, because .env may overwrite:
 
-But bina app.py dekhe change nahi karna.
+$env:APP_ENV="local"
 
-Also important
+Verify:
 
-Screenshot me config details visible hain. Future screenshots me token-endpoint, vault path, client names, secrets etc. hide karna better hai.
+echo $env:APP_ENV
+Stage 12: App restart karo
+py app.py
 
-Abhi sirf ye 2 commands run karo:
+Startup logs me check karo:
 
-Get-Content app.py | Select-Object -Skip 1 -First 130
-Select-String -Path app.py -Pattern "BearerAuthMiddleware|add_middleware|APP_ENV|local|auth|oauth|token" -CaseSensitive:$false
+Environment: local
 
-Then send output.
+Aur server start hona chahiye:
+
+Uvicorn running on http://0.0.0.0:8081
+Stage 13: Session create test again
+
+New terminal me run karo:
+
+Invoke-RestMethod -Method POST "http://localhost:8081/apps/base_llm_agent/users/test-user/sessions" `
+  -ContentType "application/json" `
+  -Body '{"state":{}}'
+Expected
+
+Agar auth bypass properly ho gaya, session create ho jayega.
+
+Agar still 403 aaya, then app.py me condition hai but middleware ya auth koi aur jagah se apply ho raha hai. Tab hum line 45–60 ka exact code inspect karenge and local bypass patch karenge.
+
+Abhi sirf ye karo:
+
+Ctrl + C
+$env:APP_ENV="local"
+gc .env | ? { $_ -match '^\s*[^#].*=' } | % { $p = $_ -split '=',2; Set-Item -Path ("Env:" + $p[0].Trim()) -Value $p[1].Trim() }
+$env:APP_ENV="local"
+echo $env:APP_ENV
+py app.py
+
+Send me server restart output.
