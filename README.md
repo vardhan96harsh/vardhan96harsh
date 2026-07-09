@@ -1,34 +1,34 @@
-Stage 7: Read only useful README section
+Stage 7: Check local config
 
-Run this command only:
+Run this command:
 
-Get-Content README.md | Select-Object -Skip 140 -First 90
+Get-ChildItem src\resources
 
-This will show auth/token section around where your output mentioned Authorization: Bearer.
+Then run:
 
-Send me this output.
+Get-Content src\resources\config-local.yml
 
-Stage 8: Read app.py auth part
+If it shows secrets/tokens, hide them before sharing screenshot.
 
-After Stage 7, run this:
+Stage 8: Check middleware part in app.py
 
-Get-Content app.py | Select-Object -Skip 1 -First 120
+Run:
 
-Send me output or screenshot around lines where these appear:
+Get-Content app.py | Select-Object -Skip 80 -First 30
 
-BearerAuthMiddleware
-app.add_middleware
-Settings
-Do not run big recursive search now
+We need to see this part:
 
-Avoid this command for now:
+app.add_middleware(BearerAuthMiddleware)
+Stage 9: Check if app has local bypass already
 
-Get-ChildItem -Recurse -File | Select-String ...
+Run:
 
-Because it searches .venv and gives garbage.
+Select-String -Path app.py,src\resources\config-local.yml -Pattern "local|auth|BearerAuthMiddleware|APP_ENV|DEVELOPMENT|JWT|jwk|audience|middleware" -CaseSensitive:$false
 
-Now only run:
+Do only these 3 commands now:
 
-Get-Content README.md | Select-Object -Skip 140 -First 90
+Get-ChildItem src\resources
+Get-Content src\resources\config-local.yml
+Get-Content app.py | Select-Object -Skip 80 -First 30
 
-Send me that output first. Then I’ll tell next exact step.
+Send me the output. Then I’ll tell you whether to use JWT token or add safe local bypass.
