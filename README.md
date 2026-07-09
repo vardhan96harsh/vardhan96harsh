@@ -1,34 +1,26 @@
-You are inside git diff pager. The change is correct, but now you need to exit the diff screen.
+Excellent ✅ Session created successfully.
 
-Stage 15A: Exit diff screen
+This means our local auth bypass worked.
 
-Press:
+Your session ID is:
 
-q
+a4ccc1c4-3fb7-488b-afca-2e2a1c822181
 
-You should come back to normal prompt:
+Current status:
 
-(.venv) PS C:\Users\bdugi\inv-agentic-platform\inv-alphasense-agent>
-Stage 16: Restart server
+Server running ✅
+Healthcheck working ✅
+Docs working ✅
+Local auth bypass working ✅
+Session creation working ✅
+Stage 18: Test /run
 
-Now run these commands:
+Now use the same session ID and run this:
 
-$env:APP_ENV="local"
-gc .env | ? { $_ -match '^\s*[^#].*=' } | % { $p = $_ -split '=',2; Set-Item -Path ("Env:" + $p[0].Trim()) -Value $p[1].Trim() }
-$env:APP_ENV="local"
-py app.py
-
-Expected output:
-
-Environment: local
-Application startup complete
-Uvicorn running on http://0.0.0.0:8081
-Stage 17: Test session
-
-Keep server running. Open a new terminal and run:
-
-Invoke-RestMethod -Method POST "http://localhost:8081/apps/base_llm_agent/users/test-user/sessions" `
+Invoke-RestMethod -Method POST "http://localhost:8081/run" `
   -ContentType "application/json" `
-  -Body '{"state":{}}'
+  -Body '{"app_name":"base_llm_agent","user_id":"test-user","session_id":"a4ccc1c4-3fb7-488b-afca-2e2a1c822181","new_message":{"role":"user","parts":[{"text":"Hello, can you respond with a simple test message?"}]}}'
 
-Send me the output of the session test.
+Expected: agent should return some response/events.
+
+Run only this command now and send me the output.
