@@ -4,82 +4,86 @@
 
 ### Full Stack Software Engineer
 
-Building software that is scalable, reliable, and built for real-world use.
+Building enterprise software with modern web technologies.
 
 <br>
 
-`React` · `Node.js` · `MongoDB` · `AWS`
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Enterprise+Applications;Learning+Platforms;Cloud+Infrastructure;Clean+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=620&lines=React+%7C+Node.js+%7C+AWS;Enterprise+Applications;Learning+Platforms;Production+Engineering" />
 
 </div>
 
 ---
 
-# About
+# Dashboard
 
-I build modern software from idea to production.
-
-Currently working at **Alogic Data**, developing enterprise learning platforms, cloud-native applications, REST APIs, and scalable backend systems.
-
-My focus is simple:
-
-> Build products that are easy to maintain, enjoyable to use, and ready for production.
-
----
-
-# Selected Work
-
-### Enterprise Learning Platform
-
-Learning management platform built for enterprise organizations with course management, SCORM delivery, authentication, reporting, and administration.
+| | |
+|:---|:---|
+| **🟢 Status** | Building enterprise applications |
+| **💼 Company** | Alogic Data |
+| **🧑‍💻 Role** | Full Stack Software Engineer |
+| **📍 Experience** | 2.5+ Years |
+| **☁️ Focus** | Web • Cloud • APIs |
 
 ---
 
-### Cloud Infrastructure
+# Stack
 
-Deployment pipelines, AWS infrastructure, Linux servers, Nginx reverse proxy, PM2 process management, HTTPS, and production monitoring.
-
----
-
-### Business Applications
-
-Custom business software, administration dashboards, workflow automation, authentication systems, and REST APIs.
-
----
-
-# Technology
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,mysql,aws,git,linux,nginx&perline=10"/>
-
-</p>
+| Frontend | Backend | Database | Cloud |
+|----------|----------|----------|----------|
+| React | Node.js | MongoDB | AWS |
+| TypeScript | Express | MySQL | Linux |
+| Tailwind | REST APIs | Mongoose | Nginx |
+| Redux | JWT | SQL | PM2 |
 
 ---
 
-# GitHub
+# Current Engineering
+
+🟢 Enterprise Learning Platforms
+
+🟢 SCORM Applications
+
+🟢 Cloud Infrastructure
+
+🟢 Authentication & RBAC
+
+🟢 REST API Development
+
+🟢 Performance Optimization
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📚 Enterprise LMS | Learning management platform for enterprise organizations |
+| 🎓 Corporate Training | Training platform with course management |
+| 📊 Admin Dashboard | Business operations and analytics |
+| ☁️ AWS Deployment | Production infrastructure and DevOps |
+
+---
+
+# GitHub Insights
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 
 </div>
 
 ---
 
+# Connect
+
 <div align="center">
 
-### Let's build something meaningful.
-
-<a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:YOUREMAIL">Email</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://YOURPORTFOLIO">Portfolio</a>
+[LinkedIn](https://linkedin.com/in/YOURPROFILE)
+•
+[Portfolio](https://yourportfolio.com)
+•
+[Email](mailto:YOUR_EMAIL)
 
 </div>
