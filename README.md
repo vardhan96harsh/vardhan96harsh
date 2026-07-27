@@ -4,225 +4,131 @@
 
 ### Full Stack Software Engineer
 
-<p>
-Building reliable digital products across frontend, backend, databases, and cloud infrastructure.
-</p>
+`React` · `Node.js` · `MongoDB` · `MySQL` · `AWS`
+
+<br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=680&lines=Engineering+Production-Ready+Web+Applications;Building+Enterprise+Learning+Platforms;Designing+Scalable+REST+APIs;Deploying+Cloud+Applications+on+AWS"
-  alt="Typing introduction"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+production-ready+web+applications;Engineering+enterprise+learning+platforms;From+frontend+interfaces+to+cloud+deployment"
+  alt="Typing SVG"
 />
 
 <br/>
 
 <a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-## Profile
+```ts
+const developer = {
+  name: "Harshvardhan Suryawanshi",
+  role: "Full Stack Software Engineer",
+  experience: "2.5+ years",
+  company: "Alogic Data",
 
-Full Stack Software Engineer with **2.5+ years of experience** building and deploying production-ready web applications.
+  focus: [
+    "Enterprise Learning Management Systems",
+    "Scalable REST API Architecture",
+    "Authentication and Role-Based Access",
+    "AWS Application Deployment"
+  ],
 
-At **Alogic Data**, I work on enterprise Learning Management Systems, SCORM-based learning platforms, secure REST APIs, administration systems, and cloud-hosted applications.
-
-My work spans the complete engineering lifecycle—from interface development and backend architecture to database design, authentication, deployment, and production support.
-
-<br/>
-
-<table>
-<tr>
-<td width="25%" align="center">
-<strong>2.5+ Years</strong><br/>
-<sub>Professional Experience</sub>
-</td>
-<td width="25%" align="center">
-<strong>Full Stack</strong><br/>
-<sub>Frontend to Cloud</sub>
-</td>
-<td width="25%" align="center">
-<strong>Enterprise LMS</strong><br/>
-<sub>Learning Platforms</sub>
-</td>
-<td width="25%" align="center">
-<strong>AWS</strong><br/>
-<sub>Cloud Deployment</sub>
-</td>
-</tr>
-</table>
-
-## Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,mysql,aws,git,github,linux,nginx&perline=15" />
-</p>
-
-<p align="center">
-  <sub>
-    React · TypeScript · Node.js · Express.js · MongoDB · MySQL · REST APIs · AWS EC2 · Nginx · PM2
-  </sub>
-</p>
-
-## Current Work
-
-```text
-Enterprise LMS Development       ████████████████████
-Frontend Engineering             ███████████████████░
-Backend & REST APIs              ███████████████████░
-Authentication & RBAC            ██████████████████░░
-AWS Deployment                   █████████████████░░░
-Performance & Production Support █████████████████░░░
+  philosophy: "Build software that is clean, reliable and ready for production."
+};
 ```
 
-## Selected Engineering Work
+## Engineering Profile
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I build complete web applications across the full engineering lifecycle—from responsive frontend experiences and backend services to database architecture, authentication, deployment, and production support.
 
-### Enterprise Learning Platform
+At **Alogic Data**, I work primarily on enterprise learning platforms, administration systems, SCORM-based course delivery, secure APIs, and cloud-hosted applications.
 
-A production-focused LMS for managing learning content, users, courses, and enterprise training workflows.
+My approach is simple: understand the business problem, design the right architecture, and deliver software that remains maintainable as the product grows.
 
-**Engineering scope**
+## Technology
 
-- SCORM package management
-- Course and curriculum administration
-- Learner and administrator experiences
-- Authentication and role-based access
-- Cloud-hosted media and application delivery
-
-`React` `Node.js` `Express` `MongoDB` `AWS`
-
-</td>
-<td width="50%" valign="top">
-
-### Corporate Training System
-
-A responsive training platform designed to deliver and manage structured organizational learning programs.
-
-**Engineering scope**
-
-- Responsive application interfaces
-- Course progress and completion tracking
-- Secure REST API integration
-- User and role management
-- Reporting and administration workflows
-
-`React` `TypeScript` `Node.js` `MySQL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Administration Dashboard
-
-A centralized interface for managing application users, content, analytics, and operational workflows.
-
-**Engineering scope**
-
-- Data-driven dashboards
-- CRUD management workflows
-- Access-controlled interfaces
-- Search, filtering, and reporting
-- Reusable frontend components
-
-`React` `Redux` `Express` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### Cloud Application Deployment
-
-Production deployment architecture for full-stack applications running on AWS infrastructure.
-
-**Engineering scope**
-
-- AWS EC2 application hosting
-- Nginx reverse proxy configuration
-- PM2 process management
-- HTTPS and domain configuration
-- Environment and deployment management
-
-`AWS EC2` `Nginx` `PM2` `Linux` `Git`
-
-</td>
-</tr>
-</table>
-
-## Engineering Focus
-
-- Building maintainable and reusable application architecture
-- Translating business requirements into reliable software
-- Designing secure authentication and authorization workflows
-- Improving frontend usability and application performance
-- Deploying and supporting applications in production environments
-
-## Activity & Work Tracker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,mongodb,mysql,aws,git,linux,nginx&perline=12"/>
+</p>
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-  width="49%"
-/>
+**Frontend**  
+React · TypeScript · JavaScript · Tailwind CSS
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent"
-  width="49%"
-/>
+**Backend**  
+Node.js · Express.js · REST APIs · JWT · RBAC
+
+**Data & Infrastructure**  
+MongoDB · MySQL · AWS EC2 · Nginx · PM2 · Linux
 
 </div>
+
+## Selected Work
+
+### Enterprise Learning Platform
+
+A full-stack LMS designed for corporate learning, course administration, user management, SCORM delivery, and training workflows.
+
+`React` `Node.js` `Express` `MongoDB` `AWS`
+
+---
+
+### Cloud Application Infrastructure
+
+Production deployment environment configured with AWS EC2, Nginx, PM2, HTTPS, custom domains, media handling, and application monitoring.
+
+`AWS` `Linux` `Nginx` `PM2` `Git`
+
+---
+
+### Administration & Analytics Systems
+
+Reusable administration interfaces for user management, reporting, content workflows, authentication, and operational visibility.
+
+`React` `TypeScript` `REST APIs` `MySQL`
+
+## Development Activity
 
 <div align="center">
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true"
-  width="98%"
+  width="100%"
 />
 
 </div>
 
-## Currently Exploring
+<div align="center">
 
-`System Design` · `Next.js` · `Cloud Architecture` · `Docker` · `Scalable Backend Systems`
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"
+  width="48%"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent"
+  width="48%"
+/>
+
+</div>
 
 <br/>
 
 <div align="center">
 
-### Let’s Build Something Meaningful
+### Build thoughtfully. Ship reliably. Improve continuously.
 
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6C63FF"
-  alt="Profile views"
-/>
-
-<br/><br/>
-
-<sub>Engineering software that remains reliable as products, teams, and requirements evolve.</sub>
+<sub>Open to full-stack engineering opportunities and meaningful technical collaborations.</sub>
 
 </div>
