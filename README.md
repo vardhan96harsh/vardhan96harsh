@@ -2,115 +2,92 @@
 
 # Harshvardhan Suryawanshi
 
-### Full Stack Software Engineer
+### Software Engineer
 
-Building enterprise software with modern technologies.
+> Engineering products, not just writing code.
 
-</div>
+<br>
 
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 👋 About
-
-Full Stack Engineer with **2.5+ years** of experience building enterprise applications.
-
-🏢 Alogic Data
-
-🚀 MERN Stack
-
-☁️ AWS Cloud
-
-💡 Production Engineering
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚡ Focus
-
-• Enterprise LMS
-
-• REST APIs
-
-• Authentication
-
-• Cloud Deployment
-
-• Performance
-
-• Clean Architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛠 Stack
-
-React
-
-Node.js
-
-Express
-
-MongoDB
-
-MySQL
-
-AWS
-
-Linux
-
-Nginx
-
-Git
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📦 Projects
-
-📚 Enterprise LMS
-
-🎓 Training Platform
-
-📊 Admin Dashboard
-
-☁️ AWS Deployment
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Enterprise+Software;Creating+Reliable+Systems;Designing+Modern+Applications;Learning+Every+Day"/>
 
 </div>
 
 ---
 
-<div align="center">
+# Identity
 
-**Let's build something amazing.**
+```
+Name        Harshvardhan Suryawanshi
+
+Role        Full Stack Software Engineer
+
+Company     Alogic Data
+
+Experience  2.5+ Years
+
+Location    India
+
+Focus       Enterprise Applications
+```
+
+---
+
+# What I Build
+
+◉ Enterprise Learning Platforms
+
+◉ Business Applications
+
+◉ Cloud Hosted Systems
+
+◉ REST APIs
+
+◉ Authentication Systems
+
+◉ Admin Platforms
+
+---
+
+# Toolbox
+
+Frontend
+
+React · TypeScript · JavaScript
+
+Backend
+
+Node.js · Express
+
+Database
+
+MongoDB · MySQL
+
+Cloud
+
+AWS · Linux · Nginx
+
+---
+
+# Engineering Principles
+
+• Build once, maintain for years.
+
+• Simplicity scales.
+
+• User experience matters.
+
+• Performance is a feature.
+
+---
+
+# Activity
+
+GitHub Stats
+
+GitHub Streak
+
+Top Languages
+
+---
 
 LinkedIn • Portfolio • Email
-
-</div>
