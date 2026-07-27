@@ -22,58 +22,31 @@ Currently working at **Alogic Data Pvt. Ltd.**, where I build enterprise Learnin
 
 ---
 
-# ⚡ Tech Ecosystem
-
-<table>
-<tr>
-
-<td width="33%">
+## ⚡ Tech Stack
 
 ### Frontend
 
-- React.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Redux Toolkit
-
-</td>
-
-<td width="33%">
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,vite"/>
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-- REST APIs
-- JWT
-- Authentication
-- RBAC
-- Multer
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-</td>
+### Database
 
-<td width="33%">
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
-### Database & Cloud
+### Cloud & DevOps
 
-- MongoDB
-- MySQL
-- AWS EC2
-- Nginx
-- PM2
-- Linux
-- Git
-
-</td>
-
-</tr>
-</table>
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,nginx,docker"/>
+</p>
 
 # 🚀 Professional Projects
 
@@ -147,15 +120,7 @@ AWS Deployment              ████████████     85%
 
 ---
 
-# 📈 GitHub Statistics
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
