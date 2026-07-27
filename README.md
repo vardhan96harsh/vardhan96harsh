@@ -1,168 +1,167 @@
-# Harshvardhan Suryawanshi
-**Full Stack Software Engineer**
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Harshvardhan Suryawanshi
 
----
+### Full Stack Software Engineer
 
-## Professional Summary
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;AWS+Cloud+Architect;Clean+Code+Enthusiast;2.5%2B+Years+of+Experience" alt="Typing SVG" />
 
-Full Stack Software Engineer with **2.5+ years** of experience architecting and delivering enterprise-grade web applications. Proven track record of building scalable Learning Management Systems, RESTful APIs, and cloud-native solutions using the **MERN stack** and **AWS** infrastructure. Strong focus on clean code, performance optimization, and system reliability.
-
-**Core Competencies:**
-- Full Stack Development (React, Node.js, Express)
-- Database Design (MongoDB, MySQL)
-- Cloud Architecture (AWS EC2, S3, CloudFront)
-- REST API Development & Integration
-- Performance Optimization & Scalability
-- Agile Methodologies & CI/CD
+</div>
 
 ---
 
-## Technical Skills
+## 👋 About Me
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React.js, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, REST APIs, JWT, Socket.io |
-| **Database** | MongoDB, MySQL, Redis |
-| **Cloud & DevOps** | AWS (EC2, S3, CloudFront), Docker, Nginx, Git, Linux |
-| **Tools** | Postman, VS Code, Figma, Jira, Confluence |
+Hello! I'm **Harshvardhan Suryawanshi**, a passionate Full Stack Software Engineer with 2.5+ years of experience building enterprise-grade applications.
 
----
+Currently working at **Alogic Data Pvt. Ltd.**, I specialize in:
 
-## Professional Experience
+- 🏗️ Architecting scalable web applications using MERN stack
+- ☁️ Deploying and managing cloud infrastructure on AWS
+- 📊 Building robust REST APIs and microservices
+- 🎯 Optimizing application performance and user experience
 
-### Alogic Data Pvt. Ltd. | *Full Stack Developer*
-*October 2023 - Present*
-
-- Designed and developed enterprise Learning Management Systems serving 10,000+ concurrent users with 99.9% uptime
-- Architected RESTful APIs handling 50,000+ daily requests with average response time of <200ms
-- Implemented SCORM 1.2/2004 compliant course upload and tracking system
-- Deployed applications on AWS infrastructure using EC2, S3, and CloudFront CDN
-- Built secure authentication system using JWT with role-based access control (Admin/Instructor/Learner)
-- Optimized MongoDB aggregation pipelines reducing query execution time by 40%
-- Integrated real-time analytics dashboards with interactive data visualization
-- Conducted code reviews and mentored junior developers on best practices
-
-**Key Achievements:**
-- Reduced API response time by 35% through query optimization and caching strategies
-- Successfully migrated legacy systems to modern MERN stack architecture
-- Implemented automated backup strategies ensuring 100% data recovery capability
+I believe in writing clean, maintainable code and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
 
 ---
 
-## Key Projects
+## 🛠️ Skills & Technologies
 
-### Enterprise Learning Management System
-*A production-grade LMS powering corporate training at scale*
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
 
-**Responsibilities:**
-- Architected complete system architecture from ground up
-- Developed SCORM-compliant course management module
-- Built admin dashboard with real-time analytics and reporting
-- Implemented multi-tenant support for enterprise clients
-- Managed AWS cloud infrastructure and deployment pipelines
+### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+</p>
 
-**Technology Stack:** React, Node.js, Express, MongoDB, AWS (EC2, S3, CloudFront), Nginx
+### Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
 
----
-
-### Corporate Training Platform
-*Interactive learning solution for enterprise training programs*
-
-**Responsibilities:**
-- Led frontend development with mobile-first responsive design approach
-- Designed RESTful APIs for course management and user progress tracking
-- Implemented role-based access control and user authentication
-- Optimized MySQL database queries for improved performance
-- Integrated third-party services for email notifications and file storage
-
-**Technology Stack:** React, Tailwind CSS, Node.js, Express, MySQL, JWT
-
----
-
-### Business Management Dashboard
-*Comprehensive operational dashboard for enterprise resource management*
-
-**Responsibilities:**
-- Developed 20+ reusable UI components using React and Redux Toolkit
-- Created interactive data visualizations for business analytics
-- Implemented secure user authentication with refresh token rotation
-- Set up CI/CD pipeline using GitHub Actions
-- Managed application state with Redux for complex data flows
-
-**Technology Stack:** React, Redux Toolkit, Node.js, Express, MongoDB, Chart.js
+### Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
 
 ---
 
-## Technical Expertise
+## 💼 Work Experience
 
-| Domain | Proficiency |
-|--------|-------------|
-| Frontend Architecture | ████████████████ 95% |
-| Backend Development | ██████████████ 90% |
-| API Design & Development | ███████████████ 92% |
-| MongoDB | █████████████ 88% |
-| MySQL | █████████████ 87% |
-| AWS Services | ████████████ 85% |
-| DevOps Practices | ██████████ 80% |
-| System Design | ██████████ 78% |
+### **Alogic Data Pvt. Ltd.** | *Full Stack Developer*
+*Oct 2023 - Present*
 
----
-
-## Certifications & Learning
-
-- **AWS Certified Cloud Practitioner** *(In Progress)*
-- **MongoDB Developer Certification** *(In Progress)*
-- **Advanced React Patterns** - Frontend Masters
-- **Data Structures & Algorithms** - LeetCode (150+ problems solved)
+- Developed and maintained enterprise Learning Management Systems using MERN stack
+- Built RESTful APIs serving 10,000+ users with 99.9% uptime
+- Deployed applications on AWS EC2 with S3 for media storage
+- Implemented JWT-based authentication and role-based access control
+- Optimized database queries improving response time by 35%
+- Collaborated with cross-functional teams in Agile environment
 
 ---
 
-## Education
+## 🚀 Key Projects
 
-**Bachelor of Engineering in Computer Science**
-*University Name* | *Year of Graduation*
-- CGPA: 8.5/10
-- Relevant Coursework: Data Structures, Algorithms, Database Management, Operating Systems, Computer Networks
+### 📚 Enterprise Learning Management System
+> *SCORM-compliant LMS for corporate training*
 
----
+**Features:**
+- SCORM 1.2/2004 course upload and tracking
+- Admin/Instructor/Learner role management
+- Real-time analytics dashboard
+- Progress tracking and reporting
 
-## Professional Development
-
-- Completed "Full Stack Web Development" specialization on Coursera
-- Regular contributor to open-source projects
-- Active participant in hackathons and coding competitions
-- Continuous learning through online platforms (Udemy, Frontend Masters, Pluralsight)
+**Tech:** React, Node.js, Express, MongoDB, AWS EC2, S3
 
 ---
 
-## Languages
+### 🎓 Corporate Training Platform
+> *Interactive platform for enterprise training programs*
 
-- **English:** Professional Working Proficiency
-- **Hindi:** Native/Bilingual Proficiency
-- **Marathi:** Native/Bilingual Proficiency
+**Features:**
+- Responsive, mobile-first UI design
+- Progress tracking and performance dashboards
+- Secure authentication with JWT
+- Real-time notifications
+
+**Tech:** React, Tailwind CSS, Node.js, Express, MySQL
 
 ---
 
-## References
+### 📊 Business Management Dashboard
+> *Comprehensive dashboard for enterprise operations*
 
-Available upon request.
+**Features:**
+- Data visualization with interactive charts
+- Complete CRUD operations
+- User management system
+- Analytics and reporting
+
+**Tech:** React, Redux, Node.js, Express, MongoDB
 
 ---
 
-*Last Updated: April 2026*
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" width="45%" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- ⚡ Next.js 14 App Router and Server Components
+- ☁️ AWS Certified Developer preparation
+- 🐳 Kubernetes and container orchestration
+- 🏗️ System Design and scalable architectures
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Views" />
+  <br>
+  <br>
+  <i>"Code is poetry in motion."</i>
 </div>
