@@ -1,213 +1,157 @@
 <div align="center">
 
-# AI Developer Analysis
+# 🎬 HarshFlix
 
-### Initializing Profile...
-
-```
-
-████████████████████████████ 100%
-
-```
-
-Analyzing Repository...
-
-Loading Experience...
-
-Scanning Projects...
-
-Synchronizing GitHub...
-
-Status: COMPLETE
-
-```
-
-## Subject
+### Now Streaming
 
 # Harshvardhan Suryawanshi
 
-### Full Stack Software Engineer
+**Full Stack Software Engineer**
+
+> Building enterprise applications one release at a time.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3500&pause=1200&color=E50914&center=true&vCenter=true&width=650&lines=Now+Building+Enterprise+Software;Deploying+Cloud+Applications;Developing+Modern+REST+APIs;Always+Shipping+New+Features"/>
 
 </div>
 
 ---
 
-# AI Report
+# ▶ Continue Building
 
 ```
-Developer ID
-
-HS-2026
-
-Current Status
-
-ACTIVE
-
-Company
-
-Alogic Data
-
-Experience
-
-2.5+ Years
-
-Primary Domain
-
-Enterprise Software
-
-Confidence Score
-
-98.7%
-```
-
----
-
-# AI Capability Scan
-
-```
-React.js                    ████████████████
-
-Node.js                     ███████████████
-
-Express.js                  ██████████████
-
-MongoDB                     ███████████████
-
-MySQL                       █████████████
-
-AWS                         █████████████
-
-Problem Solving             ███████████████
-
-Learning                    ████████████████
-```
-
----
-
-# AI Observations
-
-```
-✓ Builds production-ready applications
-
-✓ Works across frontend and backend
-
-✓ Comfortable with cloud deployment
-
-✓ Strong focus on clean architecture
-
-✓ Experience with enterprise systems
-
-✓ Continuous learner
-```
-
----
-
-# Active Missions
-
-```
-Mission 01
+Episode
 
 Enterprise Learning Platform
 
-STATUS
+Status
 
-RUNNING
+● In Progress
 
-━━━━━━━━━━━━━━━━━━━━
+Progress
 
-Mission 02
-
-REST API Architecture
-
-STATUS
-
-RUNNING
-
-━━━━━━━━━━━━━━━━━━━━
-
-Mission 03
-
-Cloud Infrastructure
-
-STATUS
-
-RUNNING
-
-━━━━━━━━━━━━━━━━━━━━
-
-Mission 04
-
-Admin Dashboard
-
-STATUS
-
-RUNNING
+██████████████████░ 94%
 ```
 
 ---
 
-# Technology Recognition
+# 🔥 Trending Projects
+
+🎓 Enterprise LMS
+
+☁ Cloud Infrastructure
+
+📊 Business Dashboard
+
+⚡ REST API Platform
+
+---
+
+# 🍿 Continue Watching
+
+Season 01
+
+Frontend Engineering
+
+███████████████████
+
+Season 02
+
+Backend Development
+
+██████████████████
+
+Season 03
+
+Cloud Engineering
+
+████████████████
+
+Season 04
+
+System Design
+
+██████████░░░░░░
+
+---
+
+# 🎭 Genres
+
+🎬 Enterprise Software
+
+🎬 Cloud Applications
+
+🎬 Learning Platforms
+
+🎬 REST APIs
+
+🎬 Authentication
+
+🎬 DevOps
+
+---
+
+# ⭐ Top Picks For You
+
+Because you watched
+
+✔ React
+
+You may also like
+
+TypeScript
+
+Redux
+
+Next.js
+
+---
+
+Because you watched
+
+✔ Node.js
+
+You may also like
+
+Express
+
+MongoDB
+
+AWS
+
+---
+
+# 📈 Viewer Statistics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,mongodb,mysql,aws,git,linux,docker"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-# Repository Intelligence
+# 👤 My List
 
-```
-Most Active Areas
+✓ Enterprise LMS
 
-Frontend Engineering
+✓ Corporate Training Platform
 
-Backend Development
+✓ Admin Dashboard
 
-Cloud Deployment
+✓ Cloud Infrastructure
 
-Authentication
-
-Enterprise Applications
-```
-
----
-
-# Live Telemetry
-
-(GitHub Stats)
-
----
-
-# AI Recommendation
-
-```
-Recommended for
-
-✔ Full Stack Development
-
-✔ Enterprise Applications
-
-✔ Cloud Engineering
-
-✔ Product Development
-
-✔ Technical Collaboration
-```
+✓ Portfolio
 
 ---
 
 <div align="center">
 
-```
-System Status
+### Season 3 • Episode 145
 
-ONLINE
+**Currently Streaming**
 
-No Critical Errors Found.
-
-Ready For Next Challenge.
-```
+Building software people actually use.
 
 </div>
