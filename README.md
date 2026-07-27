@@ -1,241 +1,135 @@
 <div align="center">
 
-# 💻 HarshOS
+# 🛂 Developer Passport
 
-### Version 2.5 LTS
+## Harshvardhan Suryawanshi
 
-```
-Booting HarshOS...
-████████████████████████████████ 100%
+### Full Stack Software Engineer
 
-✔ Loading Developer Kernel
-✔ Initializing Full Stack Engine
-✔ Connecting AWS Cloud
-✔ Mounting Projects
-✔ Loading GitHub Profile
-
-System Ready.
-```
-
-### Harshvardhan Suryawanshi
-
-#### Full Stack Software Engineer
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Enterprise+Applications;Developing+Production+Ready+Systems;Cloud+Native+Solutions;Always+Learning+Something+New"/>
-</p>
+> Authorized to build production-ready applications.
 
 </div>
 
 ---
 
-# 🖥 System Information
+## Identity
 
-```yaml
-Operating System : HarshOS 2.5 LTS
+```
+Passport No.      DEV-2023-HS
 
-User             : Harshvardhan Suryawanshi
+Nationality       Software Engineer
 
-Role             : Full Stack Software Engineer
+Issued By         Alogic Data
 
-Company          : Alogic Data
+Experience        2.5+ Years
 
-Experience       : 2.5+ Years
+Status            Active
 
-Status           : ONLINE
-
-Current Mission  : Building Enterprise Learning Platforms
-
-Architecture     : MERN + AWS
-
-Kernel           : Clean Architecture
+Availability      Open to Collaboration
 ```
 
 ---
 
-# 📦 Installed Packages
+## Authorized Technologies
 
 ```
-✔ React.js
+✓ React.js
 
-✔ TypeScript
+✓ TypeScript
 
-✔ JavaScript
+✓ JavaScript
 
-✔ Node.js
+✓ Node.js
 
-✔ Express.js
+✓ Express.js
 
-✔ MongoDB
+✓ MongoDB
 
-✔ MySQL
+✓ MySQL
 
-✔ AWS
+✓ AWS
 
-✔ Linux
+✓ Linux
 
-✔ Git
+✓ Git
 
-✔ Nginx
-
-✔ Docker
+✓ Docker
 ```
 
 ---
 
-# 🚀 Running Services
+## Travel History
 
-```text
-● Enterprise LMS                         [ RUNNING ]
+🌍 Enterprise Learning Platforms
 
-● REST API Development                   [ RUNNING ]
+🌍 Corporate Training Systems
 
-● Authentication & RBAC                  [ RUNNING ]
+🌍 Administration Dashboards
 
-● Cloud Infrastructure                   [ RUNNING ]
+🌍 Cloud Infrastructure
 
-● Frontend Development                   [ RUNNING ]
+🌍 REST API Development
 
-● Performance Optimization               [ RUNNING ]
+---
+
+## Visa Stamps
+
+```
+✔ Frontend Engineering
+
+✔ Backend Development
+
+✔ Database Design
+
+✔ Authentication
+
+✔ AWS Deployment
+
+✔ Performance Optimization
 ```
 
 ---
 
-# 📂 Mounted Projects
+## Current Destination
 
-```bash
-/projects
+```
+Mission:
 
-├── enterprise-lms/
+Design scalable software
 
-├── corporate-training-platform/
+↓
 
-├── admin-dashboard/
+Build reliable systems
 
-├── cloud-deployment/
+↓
 
-└── portfolio/
+Ship to production
 ```
 
 ---
 
-# 📊 Resource Monitor
+## Developer Activity
 
-```
-CPU Usage
-
-████████████████░░░░ 80%
-
-Backend
-
-██████████████████░ 90%
-
-Frontend
-
-█████████████████░░ 85%
-
-Cloud
-
-███████████████░░░░ 75%
-
-Learning
-
-███████████████████ 100%
-```
+(GitHub Stats Here)
 
 ---
 
-# 📜 System Philosophy
+## Immigration Officer Notes
 
-```
-while (career) {
+> Clean Code
 
-    Learn();
+> Keep Learning
 
-    Build();
+> Build for Users
 
-    Improve();
-
-    Repeat();
-
-}
-```
-
----
-
-# 📡 Network Connections
-
-```
-GitHub        ● Connected
-
-LinkedIn      ● Connected
-
-Portfolio     ● Connected
-
-Email         ● Connected
-```
-
----
-
-# 📝 System Logs
-
-```text
-[09:15] Started working on Enterprise LMS
-
-[10:40] Designed REST API architecture
-
-[12:30] Fixed production issue
-
-[14:20] Deployed application to AWS
-
-[16:10] Optimized MongoDB queries
-
-[18:00] Pushed latest commit
-```
-
----
-
-# 📈 Performance Dashboard
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 External Endpoints
-
-| Service | Status |
-|---------|--------|
-| GitHub | 🟢 Online |
-| LinkedIn | 🟢 Online |
-| Portfolio | 🟢 Online |
-| Email | 🟢 Available |
+> Stay Curious
 
 ---
 
 <div align="center">
 
-```bash
-$ exit
+**Passport Valid Until**
 
-Saving session...
-
-Closing active connections...
-
-Thank you for visiting HarshOS.
-
-Connection closed.
-```
+∞
 
 </div>
