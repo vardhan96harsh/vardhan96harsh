@@ -4,131 +4,130 @@
 
 ### Full Stack Software Engineer
 
-`React` · `Node.js` · `MongoDB` · `MySQL` · `AWS`
+Building production-ready web applications from interface to infrastructure.
 
-<br/>
+`React` · `Node.js` · `Express` · `MongoDB` · `MySQL` · `AWS`
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+production-ready+web+applications;Engineering+enterprise+learning+platforms;From+frontend+interfaces+to+cloud+deployment"
-  alt="Typing SVG"
-/>
+<br>
 
-<br/>
-
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=flat-square&logo=vercel&logoColor=white"/>
+<a href="https://YOUR_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white">
 </a>
 
 </div>
 
-<br/>
+---
 
-```ts
-const developer = {
-  name: "Harshvardhan Suryawanshi",
-  role: "Full Stack Software Engineer",
-  experience: "2.5+ years",
-  company: "Alogic Data",
+## About
 
-  focus: [
-    "Enterprise Learning Management Systems",
-    "Scalable REST API Architecture",
-    "Authentication and Role-Based Access",
-    "AWS Application Deployment"
-  ],
+Full Stack Software Engineer with **2.5+ years of experience** building scalable web applications, enterprise learning platforms, secure REST APIs, and cloud-hosted systems.
 
-  philosophy: "Build software that is clean, reliable and ready for production."
-};
-```
+Currently working at **Alogic Data**, where I contribute across frontend development, backend architecture, database design, authentication, deployment, and production support.
 
-## Engineering Profile
+---
 
-I build complete web applications across the full engineering lifecycle—from responsive frontend experiences and backend services to database architecture, authentication, deployment, and production support.
+## Engineering Snapshot
 
-At **Alogic Data**, I work primarily on enterprise learning platforms, administration systems, SCORM-based course delivery, secure APIs, and cloud-hosted applications.
+<table>
+<tr>
+<td width="25%" align="center">
+<strong>2.5+ Years</strong><br>
+<sub>Experience</sub>
+</td>
+<td width="25%" align="center">
+<strong>Full Stack</strong><br>
+<sub>Engineering</sub>
+</td>
+<td width="25%" align="center">
+<strong>Enterprise LMS</strong><br>
+<sub>Domain Experience</sub>
+</td>
+<td width="25%" align="center">
+<strong>AWS</strong><br>
+<sub>Cloud Deployment</sub>
+</td>
+</tr>
+</table>
 
-My approach is simple: understand the business problem, design the right architecture, and deliver software that remains maintainable as the product grows.
+---
 
 ## Technology
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,mongodb,mysql,aws,git,linux,nginx&perline=12"/>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<div align="center">
+**Frontend**
 
-**Frontend**  
-React · TypeScript · JavaScript · Tailwind CSS
+`React` `TypeScript` `JavaScript`  
+`Tailwind CSS` `Redux` `HTML` `CSS`
 
-**Backend**  
-Node.js · Express.js · REST APIs · JWT · RBAC
+</td>
+<td width="33%" valign="top">
 
-**Data & Infrastructure**  
-MongoDB · MySQL · AWS EC2 · Nginx · PM2 · Linux
+**Backend**
 
-</div>
+`Node.js` `Express.js`  
+`REST APIs` `JWT` `RBAC` `Multer`
+
+</td>
+<td width="33%" valign="top">
+
+**Cloud & Data**
+
+`MongoDB` `MySQL` `AWS EC2`  
+`Nginx` `PM2` `Linux` `Git`
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Selected Work
 
-### Enterprise Learning Platform
+### Enterprise Learning Management System
 
-A full-stack LMS designed for corporate learning, course administration, user management, SCORM delivery, and training workflows.
+Corporate learning platform supporting course management, SCORM packages, learner progress, administration, and role-based access.
 
 `React` `Node.js` `Express` `MongoDB` `AWS`
 
+### Cloud Application Deployment
+
+Production deployment setup using AWS EC2, Nginx, PM2, HTTPS, custom domains, environment configuration, and application monitoring.
+
+`AWS EC2` `Nginx` `PM2` `Linux`
+
+### Administration Platform
+
+Secure administration interface for managing users, courses, content, analytics, permissions, and business workflows.
+
+`React` `REST APIs` `MongoDB` `MySQL`
+
 ---
 
-### Cloud Application Infrastructure
-
-Production deployment environment configured with AWS EC2, Nginx, PM2, HTTPS, custom domains, media handling, and application monitoring.
-
-`AWS` `Linux` `Nginx` `PM2` `Git`
-
----
-
-### Administration & Analytics Systems
-
-Reusable administration interfaces for user management, reporting, content workflows, authentication, and operational visibility.
-
-`React` `TypeScript` `REST APIs` `MySQL`
-
-## Development Activity
+## GitHub Activity
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true"
-  width="100%"
-/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&hide_title=true">
 
 </div>
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent"
-  width="48%"
-/>
-
-</div>
-
-<br/>
+---
 
 <div align="center">
 
-### Build thoughtfully. Ship reliably. Improve continuously.
+### Building reliable software for real-world products.
 
-<sub>Open to full-stack engineering opportunities and meaningful technical collaborations.</sub>
+<sub>Full Stack Engineering · Enterprise Applications · Cloud Deployment</sub>
 
 </div>
