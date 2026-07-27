@@ -26,10 +26,7 @@
 
 <br><br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=900&color=E50914&center=true&vCenter=true&width=700&lines=Building+production-ready+web+applications;Developing+secure+and+scalable+REST+APIs;Deploying+enterprise+platforms+on+AWS;Turning+complex+requirements+into+working+products"
-  alt="Developer introduction"
-/>
+
 
 </div>
 
