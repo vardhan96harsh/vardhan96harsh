@@ -1,80 +1,144 @@
-# Hi 👋, I'm Harshvardhan
+<div align="center">
 
-### Full Stack MERN Developer | Instructional Designer | AI & LMS Enthusiast
+# Hi 👋, I'm Harshvardhan Suryawanshi
 
-I'm a passionate Full Stack Developer with 2+ years of experience building scalable web applications, Learning Management Systems (LMS), and AI-powered solutions. Alongside development, I work as an Instructional Designer, creating interactive corporate e-learning experiences for global clients.
+### Full Stack MERN Developer | AWS Cloud | SQL | REST APIs
+
+<p>
+Building scalable web applications with modern JavaScript technologies.
+Passionate about creating secure, high-performance applications and cloud-native solutions.
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💻 Full Stack MERN Developer
-- 🎓 Instructional Designer for Corporate eLearning
-- 🌐 Building scalable LMS platforms
-- ☁️ Experience with AWS EC2, Nginx, PM2, MongoDB
-- 🤖 Exploring AI integrations and Generative AI
-- 📚 Currently learning Data Engineering & React Native
-- ❤️ Love solving real-world problems with technology
+I'm a **Full Stack MERN Developer** with **2.5 years of professional experience** designing, developing, and deploying web applications from frontend to backend.
+
+My expertise includes building responsive user interfaces, scalable REST APIs, secure authentication systems, database design, cloud deployment, and production-ready applications.
+
+I enjoy solving real-world business problems using modern web technologies while continuously improving application performance, maintainability, and user experience.
 
 ---
 
-# 🛠 Tech Stack
+# 💼 Professional Experience
 
-### Frontend
+✔ 2.5+ Years of Experience
+
+✔ Full Stack MERN Development
+
+✔ REST API Development
+
+✔ Authentication & Authorization (JWT)
+
+✔ Role-Based Access Control (RBAC)
+
+✔ SQL & NoSQL Database Design
+
+✔ AWS Cloud Deployment
+
+✔ Nginx Configuration
+
+✔ PM2 Process Management
+
+✔ Production Server Deployment
+
+✔ Git & Agile Development
+
+---
+
+# 🚀 Technical Skills
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,tailwind,bootstrap,redux" />
+</p>
+
 - React.js
-- Next.js
 - JavaScript (ES6+)
 - TypeScript
 - HTML5
 - CSS3
 - Tailwind CSS
 - Bootstrap
-- Vite
+- Redux Toolkit
+- Responsive Design
 
-### Backend
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 - Node.js
 - Express.js
 - REST APIs
 - JWT Authentication
-- Role Based Access Control (RBAC)
-
-### Database
-- MongoDB
-- Mongoose
-
-### DevOps & Cloud
-- AWS EC2
-- Nginx
-- PM2
-- SSL (Let's Encrypt)
-- Git & GitHub
-
-### Tools
-- Postman
-- VS Code
-- Figma
-- Canva
-- Moodle LMS
-- Storyline 360
-- Rise 360
+- Middleware
+- RBAC
+- File Upload
+- API Security
 
 ---
 
-# 🚀 Featured Projects
+## Database
 
-## 📚 Alogic LMS
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-A modern Learning Management System built using MERN Stack.
+- MongoDB
+- Mongoose
+- MySQL
+- SQL Query Optimization
+- Database Design
+- Aggregation Pipelines
+
+---
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,linux" />
+</p>
+
+- AWS EC2
+- AWS S3
+- Nginx
+- PM2
+- SSL Configuration
+- Linux
+- Git
+- GitHub
+- CI/CD Basics
+
+---
+
+# 📌 Featured Projects
+
+## 🎓 Alogic Learning Management System
+
+Enterprise-grade LMS platform built using the MERN Stack.
 
 ### Features
 
 - Course Management
 - SCORM Upload
-- User Authentication
-- Role Based Access
+- Authentication
 - Admin Dashboard
-- Responsive UI
+- User Management
 - Certificate Management
+- Responsive UI
+- Secure REST APIs
 
 **Tech Stack**
 
@@ -82,61 +146,81 @@ React • Node.js • Express • MongoDB • AWS • Nginx • PM2
 
 ---
 
-## 🤖 AI Employee Learning Platform
+## 🌐 Portfolio & Business Applications
 
-An AI-powered corporate learning ecosystem covering:
-
-- AI Fundamentals
-- Prompt Engineering
-- Responsible AI
-- AI Simulations
-- Interactive Assessments
-
----
-
-## 💼 Corporate eLearning Development
-
-Developed learning experiences for industries including:
-
-- Healthcare
-- Banking
-- Manufacturing
-- Information Technology
-
-Tools:
-- Articulate Storyline 360
-- Rise 360
-- Vyond
-- AI-assisted content creation
+- Company Websites
+- Admin Dashboards
+- Authentication Systems
+- API Integrations
+- Role Management
+- File Upload Systems
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
+- Advanced System Design
+- Docker
+- Kubernetes
+- Microservices
+- AWS Services
 - Data Engineering
-- Python
-- Apache Spark
-- React Native
-- AI Agents
-- Azure AI
-- Docker & Kubernetes
+- AI Integrations
 
 ---
 
-# 🤝 Connect with Me
+# 🏆 Core Competencies
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your@email.com
+- Full Stack Development
+- Frontend Architecture
+- Backend Development
+- RESTful API Design
+- Authentication & Security
+- Database Management
+- Cloud Deployment
+- Performance Optimization
+- Problem Solving
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📫 Connect With Me
+
+📧 Email: your@email.com
+
+💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+
+🌐 Portfolio: https://yourportfolio.com
+
+🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+*"Code. Build. Deploy. Repeat."*
+
+</div>
