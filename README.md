@@ -1,227 +1,167 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Harshvardhan Suryawanshi
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Harshvardhan Suryawanshi
 
-### Full Stack Software Engineer | MERN Stack Specialist | AWS Enthusiast
+### Full Stack Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;MERN+Stack+Architect;Building+Scalable+Web+Applications;AWS+Cloud+Infrastructure;Passionate+About+Clean+Code)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;AWS+Cloud+Architect;Clean+Code+Enthusiast;2.5%2B+Years+of+Experience" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## 👋 About Me
 
-I'm a results-driven **Full Stack Software Engineer** with **2.5+ years of experience** architecting and delivering enterprise-grade web applications. Currently crafting innovative solutions at **Alogic Data Pvt. Ltd.**, I specialize in building scalable Learning Management Systems, robust REST APIs, and cloud-native applications using the **MERN stack** and **AWS ecosystem**.
+Hello! I'm **Harshvardhan Suryawanshi**, a passionate Full Stack Software Engineer with 2.5+ years of experience building enterprise-grade applications.
 
-> 🎯 **Mission:** Building software that makes a difference — one elegant solution at a time.
+Currently working at **Alogic Data Pvt. Ltd.**, I specialize in:
 
-**What I Bring to the Table:**
-- 🏗️ **Architectural Thinking** — Designing scalable, maintainable systems
-- 🔥 **Performance Optimization** — Speeding up apps and APIs
-- ☁️ **Cloud Expertise** — Deploying and managing AWS infrastructure
-- 📐 **Clean Code Advocate** — Writing readable, testable, and modular code
-- 🧠 **Continuous Learner** — Always exploring new tech and best practices
+- 🏗️ Architecting scalable web applications using MERN stack
+- ☁️ Deploying and managing cloud infrastructure on AWS
+- 📊 Building robust REST APIs and microservices
+- 🎯 Optimizing application performance and user experience
+
+I believe in writing clean, maintainable code and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+## 🛠️ Skills & Technologies
 
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
 </p>
 
-### 🗄️ Database
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+### Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+### Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Professional Projects
+## 💼 Work Experience
 
-### 🎓 Enterprise Learning Management System
+### **Alogic Data Pvt. Ltd.** | *Full Stack Developer*
+*Oct 2023 - Present*
 
-> *Production-grade LMS powering corporate training at scale*
-
-**Key Achievements:**
-- ✅ Engineered SCORM 1.2/2004 compliant course upload system with real-time progress tracking
-- ✅ Built secure JWT-based authentication with role management (Admin/Instructor/Learner)
-- ✅ Developed dynamic admin dashboards with interactive charts and real-time analytics
-- ✅ Architected RESTful APIs serving 50K+ daily requests with <200ms response time
-- ✅ Deployed on AWS EC2 with S3 storage, CloudFront CDN, and automated backups
-
-**Stack:** `React 18` • `Node.js` • `Express` • `MongoDB` • `AWS (EC2, S3, CloudFront)` • `Nginx`
+- Developed and maintained enterprise Learning Management Systems using MERN stack
+- Built RESTful APIs serving 10,000+ users with 99.9% uptime
+- Deployed applications on AWS EC2 with S3 for media storage
+- Implemented JWT-based authentication and role-based access control
+- Optimized database queries improving response time by 35%
+- Collaborated with cross-functional teams in Agile environment
 
 ---
 
-### 📊 Corporate Training Platform
+## 🚀 Key Projects
 
-> *Interactive learning solution for enterprise client training programs*
+### 📚 Enterprise Learning Management System
+> *SCORM-compliant LMS for corporate training*
 
-**Key Achievements:**
-- ✅ Designed mobile-first responsive UI with 99% lighthouse performance score
-- ✅ Implemented comprehensive progress tracking with visual dashboards
-- ✅ Built secure REST APIs with role-based access control and input validation
-- ✅ Optimized MySQL queries reducing response time by 40%
-- ✅ Integrated real-time notifications and reporting modules
+**Features:**
+- SCORM 1.2/2004 course upload and tracking
+- Admin/Instructor/Learner role management
+- Real-time analytics dashboard
+- Progress tracking and reporting
 
-**Stack:** `React` • `Tailwind CSS` • `Node.js` • `Express` • `MySQL` • `JWT`
-
----
-
-### 📈 Business Management Dashboard
-
-> *Modern operational dashboard for enterprise resource management*
-
-**Key Achievements:**
-- ✅ Created 20+ reusable React components with Storybook documentation
-- ✅ Built interactive data visualizations using Chart.js and D3
-- ✅ Implemented secure authentication flow with refresh token rotation
-- ✅ Developed comprehensive CRUD operations with optimistic UI updates
-- ✅ Set up CI/CD pipeline with GitHub Actions and automated deployments
-
-**Stack:** `React` • `Redux Toolkit` • `Node.js` • `Express` • `MongoDB` • `AWS`
+**Tech:** React, Node.js, Express, MongoDB, AWS EC2, S3
 
 ---
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> Expertise Meter
+### 🎓 Corporate Training Platform
+> *Interactive platform for enterprise training programs*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+**Features:**
+- Responsive, mobile-first UI design
+- Progress tracking and performance dashboards
+- Secure authentication with JWT
+- Real-time notifications
 
-| Skill Area | Proficiency |
-|------------|-------------|
-| 🎨 Frontend Development | ████████████████ 95% |
-| ⚙️ Backend Development | ██████████████ 90% |
-| 📡 REST API Design | ███████████████ 92% |
-| 🍃 MongoDB | █████████████ 88% |
-| 🐬 MySQL | █████████████ 87% |
-| ☁️ AWS Services | ████████████ 85% |
-| 🐳 DevOps & Deployment | ██████████ 80% |
-| 🔧 System Architecture | ██████████ 78% |
+**Tech:** React, Tailwind CSS, Node.js, Express, MySQL
 
 ---
 
-## 🎯 Currently Leveling Up
+### 📊 Business Management Dashboard
+> *Comprehensive dashboard for enterprise operations*
 
-- 🚀 **Next.js 14** — Mastering App Router, Server Components, and Streaming SSR
-- ☁️ **AWS Certified Solutions Architect** — Building cloud-native expertise
-- 🐳 **Kubernetes** — Container orchestration for microservices
-- 🔐 **System Design** — Designing scalable distributed systems
-- 📱 **React Native** — Cross-platform mobile development
+**Features:**
+- Data visualization with interactive charts
+- Complete CRUD operations
+- User management system
+- Analytics and reporting
 
----
-
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30"> GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
-</p>
+**Tech:** React, Redux, Node.js, Express, MongoDB
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" width="45%" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- ⚡ Next.js 14 App Router and Server Components
+- ☁️ AWS Certified Developer preparation
+- 🐳 Kubernetes and container orchestration
+- 🏗️ System Design and scalable architectures
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub" target="_blank">
+  <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-
-### ✨ "Building the future, one commit at a time." ✨
-
-<br />
-
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/yourrepo?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Views" />
+  <br>
+  <br>
+  <i>"Code is poetry in motion."</i>
 </div>
-
----
-
-<details>
-<summary><b>📌 Pinned Repositories</b></summary>
-<br />
-
-| Repository | Description | Tech Stack |
-|------------|-------------|------------|
-| [LMS Platform](https://github.com/yourusername/lms) | Enterprise Learning Management System | React, Node.js, MongoDB, AWS |
-| [E-Commerce API](https://github.com/yourusername/ecommerce-api) | Scalable e-commerce backend | Node.js, Express, MySQL, Redis |
-| [Dashboard UI](https://github.com/yourusername/dashboard) | Reusable dashboard components | React, Redux, Tailwind, Chart.js |
-| [Auth Service](https://github.com/yourusername/auth-service) | Microservice authentication | Node.js, JWT, MongoDB, Docker |
-
-</details>
-
----
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=2&column=4" />
-
-</div>
-
----
-
-*Last Updated: April 2026 | Made with ❤️ and ☕*
