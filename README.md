@@ -1,89 +1,149 @@
 <div align="center">
 
-# Hi, I'm Harshvardhan 👋
+# Harshvardhan Suryawanshi
 
 ### Full Stack Software Engineer
 
-Building scalable web applications and enterprise software.
-
-<p>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Building+Enterprise+Applications;MERN+Stack+Developer;Cloud+%7C+AWS+%7C+REST+API;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+<table>
+<tr>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,mysql,tailwind,aws,git,docker,linux,vscode&perline=7"/>
-</p>
+<td width="50%" valign="top">
 
----
+## 👨‍💻 About
 
-## 💼 Experience
+```yaml
+Name: Harshvardhan Suryawanshi
 
-**Full Stack Software Engineer**  
-**Alogic Data**
+Role: Full Stack Software Engineer
 
-- Building Enterprise Learning Management Systems
-- REST API Development
-- Authentication & Role-Based Access Control
-- AWS Cloud Deployment
-- Performance Optimization
-- Production Support
+Company: Alogic Data
 
----
+Experience: 2.5+ Years
 
-## 📌 Featured Projects
+Location: India
 
-| Project | Description |
-|---------|-------------|
-| 🎓 Enterprise LMS | Learning Management Platform with SCORM support |
-| 📊 Admin Dashboard | User, Course & Analytics Management |
-| ☁ Cloud Deployment | AWS, Nginx, PM2, SSL Configuration |
-| ⚡ REST APIs | Secure Backend Services |
+Specialization:
+  • Enterprise Applications
+  • MERN Stack
+  • REST APIs
+  • AWS Cloud
+```
 
----
+### 💡 Currently
 
-## 📊 GitHub Analytics
+- 🚀 Building Enterprise LMS
+- ☁ Deploying applications on AWS
+- 📈 Learning System Design
+- 🧠 Exploring DevOps
 
-<p align="center">
+### 📫 Connect
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+[LinkedIn](#) • [Portfolio](#) • [Email](#)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+</td>
 
-</p>
+<td width="50%" valign="top">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌱 Currently Learning
+## ⚡ Tech Stack
 
-- System Design
-- Cloud Architecture
-- High Performance Backend
-- DevOps
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,mysql,tailwind,bootstrap,aws,git,github,docker,linux,postman,vscode&perline=8"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Enterprise LMS
+
+- SCORM 1.2 & 2004
+- Role Based Access
+- Analytics Dashboard
+- Course Management
+
+**React • Node • MongoDB • AWS**
+
+</td>
+
+<td width="50%">
+
+### 📊 Corporate Training Platform
+
+- Modern UI
+- JWT Authentication
+- Reporting Dashboard
+- Learning Progress
+
+**React • Express • MySQL**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁ Cloud Deployment
+
+- AWS EC2
+- Nginx
+- PM2
+- SSL
+
+</td>
+
+<td width="50%">
+
+### ⚡ REST APIs
+
+- Authentication
+- RBAC
+- File Upload
+- MongoDB
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! 🚀
+> *"Building software that is simple, scalable, and reliable."*
 
 </div>
