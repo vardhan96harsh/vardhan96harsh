@@ -14,25 +14,19 @@ Building reliable, scalable, and user-focused web applications.
 
 ## About
 
-Full Stack Software Engineer with 2+ years of experience building modern web applications, REST APIs, enterprise platforms, and cloud-deployed systems.
+Full Stack Software Engineer with 2+ years of experience building modern web applications, enterprise platforms, REST APIs, and cloud-deployed systems.
 
-I work across frontend, backend, databases, authentication, deployment, and production troubleshooting.
+I work across frontend development, backend architecture, databases, authentication, deployment, and production troubleshooting.
 
 ---
 
-## Technology
+## Tech Stack
 
-**Frontend**  
-React.js · TypeScript · JavaScript · Tailwind CSS · Bootstrap
+<div align="center">
 
-**Backend**  
-Node.js · Express.js · REST APIs · JWT · RBAC
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,aws,git,github,linux,docker,postman,vscode&perline=9" alt="Tech Stack" />
 
-**Database**  
-MongoDB · MySQL
-
-**Cloud & Tools**  
-AWS · Linux · Nginx · PM2 · Git · Postman · Docker
+</div>
 
 ---
 
@@ -40,7 +34,7 @@ AWS · Linux · Nginx · PM2 · Git · Postman · Docker
 
 ### Enterprise Learning Management System
 
-Corporate learning platform with course management, SCORM delivery, learner access, administrative controls, authentication, and cloud deployment.
+Corporate learning platform with course management, SCORM delivery, authentication, learner access, administrative controls, and cloud deployment.
 
 ### Corporate Training Platform
 
@@ -52,7 +46,7 @@ Management dashboard for users, courses, reports, operational workflows, and pla
 
 ### REST API Architecture
 
-Secure backend services with authentication, role-based access control, file uploads, database integration, and production-ready deployment.
+Secure backend services with authentication, role-based access control, file uploads, database integration, and production deployment.
 
 ---
 
@@ -60,7 +54,7 @@ Secure backend services with authentication, role-based access control, file upl
 
 - Building scalable full-stack applications
 - Improving system architecture and performance
-- Developing secure APIs
+- Developing secure REST APIs
 - Deploying and maintaining applications on AWS
 - Learning advanced system design and cloud engineering
 
@@ -70,9 +64,9 @@ Secure backend services with authentication, role-based access control, file upl
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 
 </div>
 
