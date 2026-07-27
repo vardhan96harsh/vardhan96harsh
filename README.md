@@ -1,113 +1,85 @@
 <div align="center">
 
-# $ whoami
+# Harshvardhan Suryawanshi
 
-## Harshvardhan Suryawanshi
+### Full Stack Software Engineer
 
-```bash
-Full Stack Software Engineer
-```
+Building software that is scalable, reliable, and built for real-world use.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;Loading+Production+Experience...;Connecting+to+AWS...;Building+Enterprise+Applications...;System+Ready." />
+<br>
+
+`React` · `Node.js` · `MongoDB` · `AWS`
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Enterprise+Applications;Learning+Platforms;Cloud+Infrastructure;Clean+Architecture" />
 
 </div>
 
 ---
 
-```bash
-$ profile
-```
+# About
 
-```yaml
-name: Harshvardhan Suryawanshi
+I build modern software from idea to production.
 
-role: Full Stack Software Engineer
+Currently working at **Alogic Data**, developing enterprise learning platforms, cloud-native applications, REST APIs, and scalable backend systems.
 
-experience: 2.5+ Years
+My focus is simple:
 
-company: Alogic Data
-
-status: Available for exciting opportunities
-
-focus:
-  - Enterprise Learning Platforms
-  - Full Stack Development
-  - REST APIs
-  - Cloud Infrastructure
-```
+> Build products that are easy to maintain, enjoyable to use, and ready for production.
 
 ---
 
-```bash
-$ stack
-```
+# Selected Work
+
+### Enterprise Learning Platform
+
+Learning management platform built for enterprise organizations with course management, SCORM delivery, authentication, reporting, and administration.
+
+---
+
+### Cloud Infrastructure
+
+Deployment pipelines, AWS infrastructure, Linux servers, Nginx reverse proxy, PM2 process management, HTTPS, and production monitoring.
+
+---
+
+### Business Applications
+
+Custom business software, administration dashboards, workflow automation, authentication systems, and REST APIs.
+
+---
+
+# Technology
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,mysql,aws,git,linux,nginx&perline=11"/>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,mysql,aws,git,linux,nginx&perline=10"/>
 
 </p>
 
 ---
 
-```bash
-$ ls projects/
-```
+# GitHub
 
-```
-📂 enterprise-lms
-📂 corporate-training-platform
-📂 admin-dashboard
-📂 cloud-deployment
-```
+<div align="center">
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
 
-```bash
-$ cat philosophy.txt
-```
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
 
-> Build software that solves real business problems.
-
-> Keep architecture simple.
-
-> Write code that future developers will enjoy maintaining.
-
-> Never stop learning.
+</div>
 
 ---
 
-```bash
-$ github --stats
-```
+<div align="center">
 
-<p align="center">
+### Let's build something meaningful.
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:YOUREMAIL">Email</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://YOURPORTFOLIO">Portfolio</a>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-```bash
-$ contact
-```
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a>
-
-</p>
-
----
-
-```bash
-$ exit
-
-logout
-Connection closed.
-```
+</div>
