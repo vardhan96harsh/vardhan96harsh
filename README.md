@@ -4,95 +4,112 @@
 
 ### Full Stack Software Engineer
 
-Building enterprise software with modern web technologies.
+Building enterprise software with modern technologies.
 
 </div>
 
 ---
 
-# System Dashboard
+<table>
+<tr>
 
-| 🟢 Status | Online |
-|-----------|--------|
-| 💼 Company | Alogic Data |
-| 👨‍💻 Role | Full Stack Software Engineer |
-| 🚀 Experience | 2.5+ Years |
-| ☁️ Deployment | AWS Cloud |
-| 🔥 Current Focus | Enterprise Learning Platforms |
+<td width="50%" valign="top">
+
+## 👋 About
+
+Full Stack Engineer with **2.5+ years** of experience building enterprise applications.
+
+🏢 Alogic Data
+
+🚀 MERN Stack
+
+☁️ AWS Cloud
+
+💡 Production Engineering
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ Focus
+
+• Enterprise LMS
+
+• REST APIs
+
+• Authentication
+
+• Cloud Deployment
+
+• Performance
+
+• Clean Architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛠 Stack
+
+React
+
+Node.js
+
+Express
+
+MongoDB
+
+MySQL
+
+AWS
+
+Linux
+
+Nginx
+
+Git
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📦 Projects
+
+📚 Enterprise LMS
+
+🎓 Training Platform
+
+📊 Admin Dashboard
+
+☁️ AWS Deployment
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# Active Workspace
-
-```
-📁 Enterprise LMS
-
-┣━━ Frontend
-┃   ┣━━ React
-┃   ┣━━ TypeScript
-┃   ┗━━ Tailwind
-
-┣━━ Backend
-┃   ┣━━ Node.js
-┃   ┣━━ Express
-┃   ┗━━ REST APIs
-
-┣━━ Database
-┃   ┣━━ MongoDB
-┃   ┗━━ MySQL
-
-┗━━ Infrastructure
-    ┣━━ AWS
-    ┣━━ Nginx
-    ┣━━ Linux
-    ┗━━ PM2
-```
-
----
-
-# Current Projects
-
-🟢 Enterprise Learning Platform
-
-🟢 Corporate Training System
-
-🟢 Cloud Infrastructure
-
-🟢 Business Dashboard
-
----
-
-# System Metrics
-
-```
-Production Apps        ███████████████
-
-API Development        ███████████████
-
-Frontend               ██████████████
-
-Backend                ███████████████
-
-Cloud                  ████████████
-
-Learning               █████████████
-```
-
----
-
-# Activity
+## GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 
 </div>
 
 ---
 
 <div align="center">
+
+**Let's build something amazing.**
 
 LinkedIn • Portfolio • Email
 
