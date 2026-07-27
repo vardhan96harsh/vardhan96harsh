@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Harshvardhan Suryawanshi
+#  Harshvardhan Suryawanshi
 
 ### Full Stack Software Engineer
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 Hello! I'm **Harshvardhan Suryawanshi**, a passionate Full Stack Software Engineer with 2.5+ years of experience building enterprise-grade applications.
 
