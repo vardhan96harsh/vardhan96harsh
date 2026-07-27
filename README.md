@@ -1,85 +1,89 @@
 <div align="center">
 
-# Harshvardhan Suryawanshi
+# Hi, I'm Harshvardhan 👋
 
 ### Full Stack Software Engineer
 
-Building reliable, scalable, and user-focused web applications.
+Building scalable web applications and enterprise software.
 
+<p>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,mysql,tailwind,aws,git,docker,linux,vscode&perline=7"/>
+</p>
+
+---
+
+## 💼 Experience
+
+**Full Stack Software Engineer**  
 **Alogic Data**
 
-</div>
+- Building Enterprise Learning Management Systems
+- REST API Development
+- Authentication & Role-Based Access Control
+- AWS Cloud Deployment
+- Performance Optimization
+- Production Support
 
 ---
 
-## About
+## 📌 Featured Projects
 
-Full Stack Software Engineer with 2+ years of experience building modern web applications, enterprise platforms, REST APIs, and cloud-deployed systems.
-
-I work across frontend development, backend architecture, databases, authentication, deployment, and production troubleshooting.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,aws,git,github,linux,docker,postman,vscode&perline=9" alt="Tech Stack" />
-
-</div>
+| Project | Description |
+|---------|-------------|
+| 🎓 Enterprise LMS | Learning Management Platform with SCORM support |
+| 📊 Admin Dashboard | User, Course & Analytics Management |
+| ☁ Cloud Deployment | AWS, Nginx, PM2, SSL Configuration |
+| ⚡ REST APIs | Secure Backend Services |
 
 ---
 
-## Selected Work
+## 📊 GitHub Analytics
 
-### Enterprise Learning Management System
+<p align="center">
 
-Corporate learning platform with course management, SCORM delivery, authentication, learner access, administrative controls, and cloud deployment.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
 
-### Corporate Training Platform
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 
-Responsive training platform designed for enterprise learning, course discovery, learner engagement, and content delivery.
+</p>
 
-### Administration Dashboard
+<p align="center">
 
-Management dashboard for users, courses, reports, operational workflows, and platform configuration.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
 
-### REST API Architecture
-
-Secure backend services with authentication, role-based access control, file uploads, database integration, and production deployment.
+</p>
 
 ---
 
-## Current Focus
+## 🌱 Currently Learning
 
-- Building scalable full-stack applications
-- Improving system architecture and performance
-- Developing secure REST APIs
-- Deploying and maintaining applications on AWS
-- Learning advanced system design and cloud engineering
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-
-</div>
-
----
-
-## Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL)
+- System Design
+- Cloud Architecture
+- High Performance Backend
+- DevOps
 
 ---
 
 <div align="center">
 
-Building software that solves real problems.
+### Thanks for visiting! 🚀
 
 </div>
