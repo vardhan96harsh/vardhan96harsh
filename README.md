@@ -7,9 +7,6 @@
 
 <div align="center">
 
-# HARSHFLIX
-
-### NOW BUILDING
 
 # Harshvardhan Suryawanshi
 
