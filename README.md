@@ -1,167 +1,228 @@
 <div align="center">
 
-#  Harshvardhan Suryawanshi
+# Harshvardhan Suryawanshi
 
 ### Full Stack Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;AWS+Cloud+Architect;Clean+Code+Enthusiast;2.5%2B+Years+of+Experience" alt="Typing SVG" />
+<p>
+Building reliable digital products across frontend, backend, databases, and cloud infrastructure.
+</p>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=680&lines=Engineering+Production-Ready+Web+Applications;Building+Enterprise+Learning+Platforms;Designing+Scalable+REST+APIs;Deploying+Cloud+Applications+on+AWS"
+  alt="Typing introduction"
+/>
+
+<br/>
+
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
----
+<br/>
 
-##  About Me
+## Profile
 
-Hello! I'm **Harshvardhan Suryawanshi**, a passionate Full Stack Software Engineer with 2.5+ years of experience building enterprise-grade applications.
+Full Stack Software Engineer with **2.5+ years of experience** building and deploying production-ready web applications.
 
-Currently working at **Alogic Data Pvt. Ltd.**, I specialize in:
+At **Alogic Data**, I work on enterprise Learning Management Systems, SCORM-based learning platforms, secure REST APIs, administration systems, and cloud-hosted applications.
 
-- 🏗️ Architecting scalable web applications using MERN stack
-- ☁️ Deploying and managing cloud infrastructure on AWS
-- 📊 Building robust REST APIs and microservices
-- 🎯 Optimizing application performance and user experience
+My work spans the complete engineering lifecycle—from interface development and backend architecture to database design, authentication, deployment, and production support.
 
-I believe in writing clean, maintainable code and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
+<br/>
 
----
+<table>
+<tr>
+<td width="25%" align="center">
+<strong>2.5+ Years</strong><br/>
+<sub>Professional Experience</sub>
+</td>
+<td width="25%" align="center">
+<strong>Full Stack</strong><br/>
+<sub>Frontend to Cloud</sub>
+</td>
+<td width="25%" align="center">
+<strong>Enterprise LMS</strong><br/>
+<sub>Learning Platforms</sub>
+</td>
+<td width="25%" align="center">
+<strong>AWS</strong><br/>
+<sub>Cloud Deployment</sub>
+</td>
+</tr>
+</table>
 
-## 🛠️ Skills & Technologies
+## Technology Stack
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,mysql,aws,git,github,linux,nginx&perline=15" />
 </p>
 
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+<p align="center">
+  <sub>
+    React · TypeScript · Node.js · Express.js · MongoDB · MySQL · REST APIs · AWS EC2 · Nginx · PM2
+  </sub>
 </p>
 
-### Database
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+## Current Work
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-</p>
+```text
+Enterprise LMS Development       ████████████████████
+Frontend Engineering             ███████████████████░
+Backend & REST APIs              ███████████████████░
+Authentication & RBAC            ██████████████████░░
+AWS Deployment                   █████████████████░░░
+Performance & Production Support █████████████████░░░
+```
 
----
+## Selected Engineering Work
 
-## 💼 Work Experience
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### **Alogic Data Pvt. Ltd.** | *Full Stack Developer*
-*Oct 2023 - Present*
+### Enterprise Learning Platform
 
-- Developed and maintained enterprise Learning Management Systems using MERN stack
-- Built RESTful APIs serving 10,000+ users with 99.9% uptime
-- Deployed applications on AWS EC2 with S3 for media storage
-- Implemented JWT-based authentication and role-based access control
-- Optimized database queries improving response time by 35%
-- Collaborated with cross-functional teams in Agile environment
+A production-focused LMS for managing learning content, users, courses, and enterprise training workflows.
 
----
+**Engineering scope**
 
-## 🚀 Key Projects
+- SCORM package management
+- Course and curriculum administration
+- Learner and administrator experiences
+- Authentication and role-based access
+- Cloud-hosted media and application delivery
 
-### 📚 Enterprise Learning Management System
-> *SCORM-compliant LMS for corporate training*
+`React` `Node.js` `Express` `MongoDB` `AWS`
 
-**Features:**
-- SCORM 1.2/2004 course upload and tracking
-- Admin/Instructor/Learner role management
-- Real-time analytics dashboard
-- Progress tracking and reporting
+</td>
+<td width="50%" valign="top">
 
-**Tech:** React, Node.js, Express, MongoDB, AWS EC2, S3
+### Corporate Training System
 
----
+A responsive training platform designed to deliver and manage structured organizational learning programs.
 
-### 🎓 Corporate Training Platform
-> *Interactive platform for enterprise training programs*
+**Engineering scope**
 
-**Features:**
-- Responsive, mobile-first UI design
-- Progress tracking and performance dashboards
-- Secure authentication with JWT
-- Real-time notifications
+- Responsive application interfaces
+- Course progress and completion tracking
+- Secure REST API integration
+- User and role management
+- Reporting and administration workflows
 
-**Tech:** React, Tailwind CSS, Node.js, Express, MySQL
+`React` `TypeScript` `Node.js` `MySQL`
 
----
+</td>
+</tr>
 
-### 📊 Business Management Dashboard
-> *Comprehensive dashboard for enterprise operations*
+<tr>
+<td width="50%" valign="top">
 
-**Features:**
-- Data visualization with interactive charts
-- Complete CRUD operations
-- User management system
-- Analytics and reporting
+### Administration Dashboard
 
-**Tech:** React, Redux, Node.js, Express, MongoDB
+A centralized interface for managing application users, content, analytics, and operational workflows.
 
----
+**Engineering scope**
 
-## 📈 GitHub Stats
+- Data-driven dashboards
+- CRUD management workflows
+- Access-controlled interfaces
+- Search, filtering, and reporting
+- Reusable frontend components
+
+`React` `Redux` `Express` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### Cloud Application Deployment
+
+Production deployment architecture for full-stack applications running on AWS infrastructure.
+
+**Engineering scope**
+
+- AWS EC2 application hosting
+- Nginx reverse proxy configuration
+- PM2 process management
+- HTTPS and domain configuration
+- Environment and deployment management
+
+`AWS EC2` `Nginx` `PM2` `Linux` `Git`
+
+</td>
+</tr>
+</table>
+
+## Engineering Focus
+
+- Building maintainable and reusable application architecture
+- Translating business requirements into reliable software
+- Designing secure authentication and authorization workflows
+- Improving frontend usability and application performance
+- Deploying and supporting applications in production environments
+
+## Activity & Work Tracker
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="45%" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  width="49%"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent"
+  width="49%"
+/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" width="45%" />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true"
+  width="98%"
+/>
+
 </div>
 
----
+## Currently Exploring
 
-## 🌱 Currently Learning
+`System Design` · `Next.js` · `Cloud Architecture` · `Docker` · `Scalable Backend Systems`
 
-- ⚡ Next.js 14 App Router and Server Components
-- ☁️ AWS Certified Developer preparation
-- 🐳 Kubernetes and container orchestration
-- 🏗️ System Design and scalable architectures
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Views" />
-  <br>
-  <br>
-  <i>"Code is poetry in motion."</i>
+
+### Let’s Build Something Meaningful
+
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6C63FF"
+  alt="Profile views"
+/>
+
+<br/><br/>
+
+<sub>Engineering software that remains reliable as products, teams, and requirements evolve.</sub>
+
 </div>
