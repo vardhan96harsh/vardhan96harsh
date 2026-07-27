@@ -1,226 +1,75 @@
 <div align="center">
 
-# Hi 👋, I'm Harshvardhan Suryawanshi
+# Harshvardhan Suryawanshi
 
-### Full Stack MERN Developer | AWS Cloud | SQL | REST APIs
+### Full Stack MERN Developer • AWS • SQL • REST APIs
 
-<p>
-Building scalable web applications with modern JavaScript technologies.
-Passionate about creating secure, high-performance applications and cloud-native solutions.
-</p>
+Building scalable web applications with React, Node.js, Express, MongoDB, MySQL and AWS.
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your@email.com)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 Tech Stack
 
-I'm a **Full Stack MERN Developer** with **2.5 years of professional experience** designing, developing, and deploying web applications from frontend to backend.
-
-My expertise includes building responsive user interfaces, scalable REST APIs, secure authentication systems, database design, cloud deployment, and production-ready applications.
-
-I enjoy solving real-world business problems using modern web technologies while continuously improving application performance, maintainability, and user experience.
-
----
-
-# 💼 Professional Experience
-
-✔ 2.5+ Years of Experience
-
-✔ Full Stack MERN Development
-
-✔ REST API Development
-
-✔ Authentication & Authorization (JWT)
-
-✔ Role-Based Access Control (RBAC)
-
-✔ SQL & NoSQL Database Design
-
-✔ AWS Cloud Deployment
-
-✔ Nginx Configuration
-
-✔ PM2 Process Management
-
-✔ Production Server Deployment
-
-✔ Git & Agile Development
-
----
-
-# 🚀 Technical Skills
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,tailwind,bootstrap,redux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,js,ts,html,css,tailwind,redux,aws,git,github,linux,vscode&perline=9"/>
 </p>
 
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Redux Toolkit
-- Responsive Design
+---
+
+## 💼 Experience
+
+✔ 2.5+ Years Full Stack Development
+
+✔ Frontend Architecture
+
+✔ Backend API Development
+
+✔ Authentication (JWT)
+
+✔ SQL & MongoDB
+
+✔ AWS EC2 Deployment
+
+✔ Nginx • PM2
+
+✔ REST APIs
 
 ---
 
-## Backend
+## 📌 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+🚀 **Alogic LMS**
 
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Middleware
-- RBAC
-- File Upload
-- API Security
+Enterprise Learning Management System
+
+`React` `Node.js` `MongoDB` `AWS`
 
 ---
 
-## Database
+📊 **Admin Dashboard**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+Authentication • Analytics • Role Management
 
-- MongoDB
-- Mongoose
-- MySQL
-- SQL Query Optimization
-- Database Design
-- Aggregation Pipelines
+`React` `Express` `MySQL`
 
 ---
 
-## Cloud & DevOps
+🌐 **Business Website**
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,linux" />
-</p>
+Responsive Website + CMS
 
-- AWS EC2
-- AWS S3
-- Nginx
-- PM2
-- SSL Configuration
-- Linux
-- Git
-- GitHub
-- CI/CD Basics
+`React` `Node.js`
 
 ---
-
-# 📌 Featured Projects
-
-## 🎓 Alogic Learning Management System
-
-Enterprise-grade LMS platform built using the MERN Stack.
-
-### Features
-
-- Course Management
-- SCORM Upload
-- Authentication
-- Admin Dashboard
-- User Management
-- Certificate Management
-- Responsive UI
-- Secure REST APIs
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB • AWS • Nginx • PM2
-
----
-
-## 🌐 Portfolio & Business Applications
-
-- Company Websites
-- Admin Dashboards
-- Authentication Systems
-- API Integrations
-- Role Management
-- File Upload Systems
-
----
-
-# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
-
----
-
-# 🌱 Currently Learning
-
-- Advanced System Design
-- Docker
-- Kubernetes
-- Microservices
-- AWS Services
-- Data Engineering
-- AI Integrations
-
----
-
-# 🏆 Core Competencies
-
-- Full Stack Development
-- Frontend Architecture
-- Backend Development
-- RESTful API Design
-- Authentication & Security
-- Database Management
-- Cloud Deployment
-- Performance Optimization
-- Problem Solving
-
----
-
-# 📫 Connect With Me
-
-📧 Email: your@email.com
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
-🌐 Portfolio: https://yourportfolio.com
-
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile ❤️
-
-*"Code. Build. Deploy. Repeat."*
-
-</div>
