@@ -2,92 +2,103 @@
 
 # Harshvardhan Suryawanshi
 
-### Software Engineer
+### Full Stack Software Engineer
 
-> Engineering products, not just writing code.
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Enterprise+Software;Creating+Reliable+Systems;Designing+Modern+Applications;Learning+Every+Day"/>
+Building products.
+Solving business problems.
+Shipping reliable software.
 
 </div>
 
 ---
 
-# Identity
+# Workspace
 
 ```
-Name        Harshvardhan Suryawanshi
+Current Sprint
 
-Role        Full Stack Software Engineer
+███████████████████░ 94%
 
-Company     Alogic Data
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Experience  2.5+ Years
+Project
 
-Location    India
+Enterprise Learning Platform
 
-Focus       Enterprise Applications
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Status
+
+🟢 In Development
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Stack
+
+React
+Node.js
+MongoDB
+AWS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Mission
+
+Build software that people enjoy using.
 ```
 
 ---
 
-# What I Build
+# Engineering
 
-◉ Enterprise Learning Platforms
+### Current Focus
 
-◉ Business Applications
+```text
+▣ Enterprise Learning Systems
 
-◉ Cloud Hosted Systems
+▣ REST API Design
 
-◉ REST APIs
+▣ Cloud Infrastructure
 
-◉ Authentication Systems
+▣ Authentication
 
-◉ Admin Platforms
+▣ Performance Optimization
+
+▣ UI Engineering
+```
 
 ---
 
 # Toolbox
 
-Frontend
+<div align="center">
 
-React · TypeScript · JavaScript
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,mongodb,mysql,aws,git,linux,docker"/>
 
-Backend
-
-Node.js · Express
-
-Database
-
-MongoDB · MySQL
-
-Cloud
-
-AWS · Linux · Nginx
+</div>
 
 ---
 
-# Engineering Principles
+# Projects
 
-• Build once, maintain for years.
+```
+📦 Enterprise LMS
 
-• Simplicity scales.
+📦 Training Platform
 
-• User experience matters.
+📦 Business Dashboard
 
-• Performance is a feature.
-
----
-
-# Activity
-
-GitHub Stats
-
-GitHub Streak
-
-Top Languages
+📦 AWS Infrastructure
+```
 
 ---
 
-LinkedIn • Portfolio • Email
+# Development Activity
+
+(GitHub Stats)
+
+---
+
+# End of Session
+
+See you in the next commit.
