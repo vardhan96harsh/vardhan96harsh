@@ -4,146 +4,150 @@
 
 ### Full Stack Software Engineer
 
-Building scalable web applications with **React • Node.js • Express • MongoDB • MySQL • AWS**
+Building modern, scalable and cloud-native web applications.
 
-<p>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=React+Developer;Node.js+Developer;MERN+Stack+Engineer;AWS+Cloud+Developer;Full+Stack+Software+Engineer"/>
 
 </div>
 
 ---
 
-## About Me
+# 👨🏻‍💻 Who Am I
 
-Software Engineer with **2.5+ years of experience** developing full-stack web applications from concept to production.
+Software Engineer with **2.5+ years** of experience designing and developing production-ready applications.
 
-I specialize in building scalable frontend architectures, secure backend APIs, cloud deployments, and database-driven applications. I enjoy solving business problems through clean architecture, reusable components, and modern development practices.
+I specialize in building complete end-to-end solutions—from intuitive React frontends to scalable Node.js backends, database design, REST APIs, and AWS deployments.
 
----
-
-## Current Role
-
-**Software Engineer**  
-**Alogic Data Pvt. Ltd.**
-
-Working on:
-
-- Enterprise Learning Management System (LMS)
-- SCORM-based eLearning Platforms
-- MERN Stack Applications
-- AWS Cloud Deployment
-- REST API Development
-- Authentication & Authorization
-- Performance Optimization
-- Production Support
+Currently working at **Alogic Data Pvt. Ltd.**, where I build enterprise Learning Management Systems (LMS), cloud-based platforms, and modern business applications.
 
 ---
 
-## Tech Stack
+# ⚡ Tech Ecosystem
 
 <table>
 <tr>
-<td><b>Frontend</b></td>
-<td>
 
-React • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Redux
+<td width="33%">
 
-</td>
-</tr>
+### Frontend
 
-<tr>
-<td><b>Backend</b></td>
-<td>
-
-Node.js • Express.js • REST APIs • JWT • RBAC • Multer
-
-</td>
-</tr>
-
-<tr>
-<td><b>Database</b></td>
-<td>
-
-MongoDB • Mongoose • MySQL • SQL
+- React.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Redux Toolkit
 
 </td>
-</tr>
 
-<tr>
-<td><b>Cloud & DevOps</b></td>
-<td>
+<td width="33%">
 
-AWS EC2 • Nginx • PM2 • SSL • Linux • Git • GitHub
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- JWT
+- Authentication
+- RBAC
+- Multer
 
 </td>
+
+<td width="33%">
+
+### Database & Cloud
+
+- MongoDB
+- MySQL
+- AWS EC2
+- Nginx
+- PM2
+- Linux
+- Git
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# Selected Projects
+# 🚀 Professional Projects
 
-### 🚀 Alogic Learning Management System
+## Enterprise Learning Management System
 
-Enterprise LMS developed using the MERN Stack.
+Production-ready LMS for corporate training.
 
 **Highlights**
 
-- SCORM Package Upload & Launch
-- Authentication & Role-Based Access
-- Admin Dashboard
-- Course Management
+✔ SCORM Upload
+
+✔ Secure Authentication
+
+✔ Admin Dashboard
+
+✔ Course Management
+
+✔ Cloud Deployment
+
+✔ AWS Infrastructure
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `AWS`
+
+---
+
+## Corporate Training Platform
+
+Interactive learning platform developed for enterprise organizations.
+
+**Highlights**
+
 - Responsive UI
-- AWS Deployment
-- Nginx Reverse Proxy
-- PM2 Process Management
-
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB` `AWS` `Nginx`
+- Progress Tracking
+- REST APIs
+- Role Management
+- Performance Optimization
 
 ---
 
-### 💼 Corporate Training Platform
+## Business Management Dashboard
 
-Interactive training platform for enterprise clients.
+Modern dashboard for enterprise operations.
 
-**Highlights**
+Features
 
-- Course Library
-- User Progress Tracking
-- Secure Authentication
-- API Integration
-- Modern UI
-
-**Stack**
-
-`React` `Express` `MongoDB`
-
----
-
-### 📊 Admin Dashboard
-
-Role-based management dashboard with analytics.
-
-**Highlights**
-
-- Dashboard Analytics
-- User Management
+- Analytics
 - Authentication
-- CRUD Operations
-- API Integration
-
-**Stack**
-
-`React` `Node.js` `MySQL`
+- CRUD
+- User Management
+- Reporting
 
 ---
 
-## GitHub Analytics
+# 💼 Professional Expertise
+
+```text
+Frontend Development        ████████████████ 95%
+
+Backend Development         ██████████████   90%
+
+REST API Development        ███████████████  92%
+
+MongoDB                     █████████████    88%
+
+MySQL                       █████████████    87%
+
+AWS Deployment              ████████████     85%
+```
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -155,11 +159,10 @@ Role-based management dashboard with analytics.
 
 ---
 
-## Professional Interests
+# 🤝 Connect
 
-- Full Stack Development
-- Cloud Architecture
-- System Design
-- API Development
-- Performance Optimization
-- AI-powered Applications
+<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+<a href="mailto:your@email.com">Email</a> •
+<a href="https://yourportfolio.com">Portfolio</a>
+
+---
