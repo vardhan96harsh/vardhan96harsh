@@ -1,149 +1,256 @@
+```markdown
 <div align="center">
 
-# Harshvardhan Suryawanshi
+# Hi, I'm Harshvardhan Suryawanshi 👋
 
-### Full Stack Software Engineer
+### Full Stack Software Engineer | MERN Stack Developer | AWS Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Building+Enterprise+Applications;MERN+Stack+Developer;Cloud+%7C+AWS+%7C+REST+API;Always+Learning+Something+New"/>
+I build scalable, secure, and user-friendly web applications using modern JavaScript technologies.
+
+<br />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;AWS+%7C+REST+APIs+%7C+Cloud+Deployment;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+<br />
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://YOUR-PORTFOLIO-LINK.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<table>
-<tr>
+## 👨‍💻 About Me
 
-<td width="50%" valign="top">
+I am a passionate **Full Stack Software Engineer** with **2.5+ years of experience** building enterprise-grade web applications.
 
-## 👨‍💻 About
+Currently working at **Alogic Data Pvt. Ltd.**, I specialize in developing scalable applications using the **MERN stack**, building secure REST APIs, integrating cloud services, and deploying production-ready applications on AWS.
 
-```yaml
-Name: Harshvardhan Suryawanshi
-
-Role: Full Stack Software Engineer
-
-Company: Alogic Data
-
-Experience: 2.5+ Years
-
-Location: India
-
-Specialization:
-  • Enterprise Applications
-  • MERN Stack
-  • REST APIs
-  • AWS Cloud
-```
-
-### 💡 Currently
-
-- 🚀 Building Enterprise LMS
-- ☁ Deploying applications on AWS
-- 📈 Learning System Design
-- 🧠 Exploring DevOps
-
-### 📫 Connect
-
-[LinkedIn](#) • [Portfolio](#) • [Email](#)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
+- 🔭 Currently working on enterprise Learning Management Systems
+- 🌱 Learning advanced cloud architecture, microservices, and system design
+- 💻 Experienced with React.js, Node.js, Express.js, and MongoDB
+- ☁️ Deploying and managing applications using AWS EC2, S3, RDS, Nginx, and PM2
+- 🔐 Building secure authentication systems using JWT and role-based access control
+- ⚡ Focused on performance optimization and clean, maintainable code
+- 🤝 Open to collaborating on MERN stack and cloud-based projects
+- 📫 Reach me at **YOUR-EMAIL@example.com**
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Skills and Technologies
 
-<div align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,mysql,tailwind,bootstrap,aws,git,github,docker,linux,postman,vscode&perline=8"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite" />
+</p>
 
-</div>
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+</p>
+
+### Cloud and DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,nginx,docker,linux,git,github,netlify,vercel" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm" />
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer — Alogic Data Pvt. Ltd.
+
+**October 2023 – Present**
+
+- Developed and maintained enterprise Learning Management Systems using the MERN stack
+- Built RESTful APIs serving thousands of users
+- Implemented JWT-based authentication and role-based access control
+- Deployed applications on AWS EC2 using Nginx and PM2
+- Integrated AWS S3 for secure media and file storage
+- Optimized MongoDB queries and backend APIs for better performance
+- Developed responsive interfaces using React.js, Tailwind CSS, and Bootstrap
+- Integrated SCORM-based e-learning content into LMS platforms
+- Worked with Moodle, WordPress, PHP, and MySQL
+- Collaborated with designers, developers, and instructional design teams
+- Managed production deployments, SSL certificates, domains, and server configuration
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🎓 Alogic Learning Management System
 
-### 🎓 Enterprise LMS
+A modern corporate training platform designed to deliver courses, SCORM packages, assessments, and learner progress tracking.
 
-- SCORM 1.2 & 2004
-- Role Based Access
-- Analytics Dashboard
-- Course Management
+**Key Features**
 
-**React • Node • MongoDB • AWS**
+- Secure authentication and role-based access
+- Course management and administration
+- SCORM course upload and playback
+- Responsive learner dashboard
+- Success stories and course catalog
+- File and media upload management
+- AWS cloud deployment
+- REST API integration
 
-</td>
+**Technologies**
 
-<td width="50%">
+`React.js` `Node.js` `Express.js` `MongoDB` `AWS EC2` `Nginx` `PM2` `Tailwind CSS`
 
-### 📊 Corporate Training Platform
-
-- Modern UI
-- JWT Authentication
-- Reporting Dashboard
-- Learning Progress
-
-**React • Express • MySQL**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☁ Cloud Deployment
-
-- AWS EC2
-- Nginx
-- PM2
-- SSL
-
-</td>
-
-<td width="50%">
-
-### ⚡ REST APIs
-
-- Authentication
-- RBAC
-- File Upload
-- MongoDB
-
-</td>
-</tr>
-
-</table>
+[Live Demo](https://alogiclms.netlify.app/) · [Repository](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-REPOSITORY)
 
 ---
 
-## 📈 GitHub Activity
+### 🖱️ Fast Mouse Automation
 
-<p align="center">
+A Windows desktop automation application for recording and replaying mouse and keyboard actions with high-performance timing controls.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
+**Key Features**
 
-</p>
+- Global mouse and keyboard recording
+- Save and load automation scripts
+- High-speed playback engine
+- Multiple playback timing modes
+- Loop and infinite-loop support
+- Benchmark and events-per-second tracking
+- Native Windows `SendInput` integration
+
+**Technologies**
+
+`C#` `.NET 8` `WPF` `Windows API` `Clean Architecture`
+
+[Repository](https://github.com/YOUR-GITHUB-USERNAME/FAST-MOUSE-AUTOMATION)
+
+---
+
+### 🌐 Developer Portfolio
+
+A responsive personal portfolio website showcasing my skills, professional experience, and development projects.
+
+**Key Features**
+
+- Modern responsive interface
+- Animated hero section
+- Project showcase
+- Skills and experience sections
+- Contact form
+- Dark and light theme support
+
+**Technologies**
+
+`React.js` `TypeScript` `Tailwind CSS` `Vite`
+
+[Live Demo](https://YOUR-PORTFOLIO-LINK.com) · [Repository](https://github.com/YOUR-GITHUB-USERNAME/PORTFOLIO-REPOSITORY)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Harshvardhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/YOUR-GITHUB-USERNAME)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/YOUR-GITHUB-USERNAME)
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- Master advanced backend architecture and microservices
+- Improve system design and application scalability
+- Build production-ready cloud-native applications
+- Learn Docker, Kubernetes, and CI/CD in depth
+- Contribute to meaningful open-source projects
+- Explore AI integration in modern web applications
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Harshvardhan_Suryawanshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Gmail-YOUR--EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://YOUR-PORTFOLIO-LINK.com">
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-> *"Building software that is simple, scalable, and reliable."*
+### 💡 “Clean code, continuous learning, and meaningful solutions.”
+
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+
+<br />
+<br />
+
+⭐ From [Harshvardhan Suryawanshi](https://github.com/YOUR-GITHUB-USERNAME)
 
 </div>
+```
