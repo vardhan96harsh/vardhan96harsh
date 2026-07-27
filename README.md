@@ -1,104 +1,241 @@
 <div align="center">
 
-# Harshvardhan Suryawanshi
+# 💻 HarshOS
 
-### Full Stack Software Engineer
+### Version 2.5 LTS
 
-Building products.
-Solving business problems.
-Shipping reliable software.
+```
+Booting HarshOS...
+████████████████████████████████ 100%
+
+✔ Loading Developer Kernel
+✔ Initializing Full Stack Engine
+✔ Connecting AWS Cloud
+✔ Mounting Projects
+✔ Loading GitHub Profile
+
+System Ready.
+```
+
+### Harshvardhan Suryawanshi
+
+#### Full Stack Software Engineer
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Enterprise+Applications;Developing+Production+Ready+Systems;Cloud+Native+Solutions;Always+Learning+Something+New"/>
+</p>
 
 </div>
 
 ---
 
-# Workspace
+# 🖥 System Information
 
-```
-Current Sprint
+```yaml
+Operating System : HarshOS 2.5 LTS
 
-███████████████████░ 94%
+User             : Harshvardhan Suryawanshi
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Role             : Full Stack Software Engineer
 
-Project
+Company          : Alogic Data
 
-Enterprise Learning Platform
+Experience       : 2.5+ Years
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status           : ONLINE
 
-Status
+Current Mission  : Building Enterprise Learning Platforms
 
-🟢 In Development
+Architecture     : MERN + AWS
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Stack
-
-React
-Node.js
-MongoDB
-AWS
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Mission
-
-Build software that people enjoy using.
+Kernel           : Clean Architecture
 ```
 
 ---
 
-# Engineering
+# 📦 Installed Packages
 
-### Current Focus
+```
+✔ React.js
+
+✔ TypeScript
+
+✔ JavaScript
+
+✔ Node.js
+
+✔ Express.js
+
+✔ MongoDB
+
+✔ MySQL
+
+✔ AWS
+
+✔ Linux
+
+✔ Git
+
+✔ Nginx
+
+✔ Docker
+```
+
+---
+
+# 🚀 Running Services
 
 ```text
-▣ Enterprise Learning Systems
+● Enterprise LMS                         [ RUNNING ]
 
-▣ REST API Design
+● REST API Development                   [ RUNNING ]
 
-▣ Cloud Infrastructure
+● Authentication & RBAC                  [ RUNNING ]
 
-▣ Authentication
+● Cloud Infrastructure                   [ RUNNING ]
 
-▣ Performance Optimization
+● Frontend Development                   [ RUNNING ]
 
-▣ UI Engineering
+● Performance Optimization               [ RUNNING ]
 ```
 
 ---
 
-# Toolbox
+# 📂 Mounted Projects
+
+```bash
+/projects
+
+├── enterprise-lms/
+
+├── corporate-training-platform/
+
+├── admin-dashboard/
+
+├── cloud-deployment/
+
+└── portfolio/
+```
+
+---
+
+# 📊 Resource Monitor
+
+```
+CPU Usage
+
+████████████████░░░░ 80%
+
+Backend
+
+██████████████████░ 90%
+
+Frontend
+
+█████████████████░░ 85%
+
+Cloud
+
+███████████████░░░░ 75%
+
+Learning
+
+███████████████████ 100%
+```
+
+---
+
+# 📜 System Philosophy
+
+```
+while (career) {
+
+    Learn();
+
+    Build();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
+
+# 📡 Network Connections
+
+```
+GitHub        ● Connected
+
+LinkedIn      ● Connected
+
+Portfolio     ● Connected
+
+Email         ● Connected
+```
+
+---
+
+# 📝 System Logs
+
+```text
+[09:15] Started working on Enterprise LMS
+
+[10:40] Designed REST API architecture
+
+[12:30] Fixed production issue
+
+[14:20] Deployed application to AWS
+
+[16:10] Optimized MongoDB queries
+
+[18:00] Pushed latest commit
+```
+
+---
+
+# 📈 Performance Dashboard
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 External Endpoints
+
+| Service | Status |
+|---------|--------|
+| GitHub | 🟢 Online |
+| LinkedIn | 🟢 Online |
+| Portfolio | 🟢 Online |
+| Email | 🟢 Available |
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,mongodb,mysql,aws,git,linux,docker"/>
+```bash
+$ exit
+
+Saving session...
+
+Closing active connections...
+
+Thank you for visiting HarshOS.
+
+Connection closed.
+```
 
 </div>
-
----
-
-# Projects
-
-```
-📦 Enterprise LMS
-
-📦 Training Platform
-
-📦 Business Dashboard
-
-📦 AWS Infrastructure
-```
-
----
-
-# Development Activity
-
-(GitHub Stats)
-
----
-
-# End of Session
-
-See you in the next commit.
