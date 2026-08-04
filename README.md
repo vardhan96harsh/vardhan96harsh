@@ -46,7 +46,7 @@ Currently working at **Alogic Data Pvt. Ltd.**, I specialize in developing scala
 - 🔐 Building secure authentication systems using JWT and role-based access control
 - ⚡ Focused on performance optimization and clean, maintainable code
 - 🤝 Open to collaborating on MERN stack and cloud-based projects
-- 📫 Reach me at **YOUR-EMAIL@example.com**
+- 📫 Reach me at **Harshvardhansuryawanshi373.com**
 
 ---
 
